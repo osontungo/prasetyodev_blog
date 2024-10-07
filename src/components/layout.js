@@ -20,7 +20,7 @@ const Layout = ({ location, title, children }) => {
               .typeString(`{ Sơn Tùng }`)
               .pauseFor(1000)
               .deleteAll()
-              .typeString("Xin chào mừng bạn :)")
+              .typeString("Xin chào mừng bạn:)")
               .pauseFor(2000)
               .deleteAll()
               .typeString(`{ Sơn Tùng }`)
