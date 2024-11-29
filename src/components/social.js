@@ -11,9 +11,9 @@ const Social = () => {
         style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
-        network="linkedin"
+        network="x"
         target="_blank"
-        href="https://www.linkedin.com/in/dimas-prasetyo"
+        href="https://x.com/sontungxyz"
         style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
