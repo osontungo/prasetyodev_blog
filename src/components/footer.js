@@ -3,10 +3,10 @@ import * as React from "react"
 const Footer = () => {
   return (
     <footer className="footer-area">
-      Develop by Dimas Prasetyo © {new Date().getFullYear()}, Built with
+      Develop by Sơn Tùng © {new Date().getFullYear()}, Built with
       {` `}
-      <a className="d-block m-3" href="https://www.gatsbyjs.com">
-        Gatsby
+      <a className="d-block m-3" href="https://www.sontung.xyz">
+        Sơn Tùng XYZ
       </a>
     </footer>
   )

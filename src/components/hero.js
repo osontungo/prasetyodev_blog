@@ -23,22 +23,21 @@ const Hero = () => {
             <Typewriter
               onInit={typewriter => {
                 typewriter
-                  .typeString(`Software Engineer _`)
+                  .typeString(`Cuộc sống giản dị _`)
                   .pauseFor(1000)
                   .start()
               }}
             />
           </h2>
           <p className="lead text-transform-minus-2">
-            A seasoned <b>Frontend Developer Specialist & Fullstack Developer</b> with <b>5++</b>{" "}
-            years of experience is a highly skilled professional who
-            specializes in creating and maintaining the user interface{" "}
-            <b>(UI)</b> and user experience <b>(UX)</b> of web applications.
+          Tận hưởng <b>những khoảnh khắc</b> và <b>ý nghĩa</b>{" "}
+          trong cuộc sống {" "}
+            <b>hàng ngày</b>.
           </p>
           <Social />
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
             <Buttons propClass="btn-bloby" propRedirect="/about">
-              Know more about me
+              Hiểu thêm về tôi
             </Buttons>
           </div>
         </div>
