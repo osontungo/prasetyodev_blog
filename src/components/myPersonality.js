@@ -26,14 +26,7 @@ const MyPersonality = () => {
     <BlockElement className="row mb-5 mt-5" component="div">
       <div className="col-sm-12 col-md-6 col-lg-6">
         <p className="mt-5">
-          <b>DIMAS PRASETYO</b>, you are a person who has a lot of ideas, both
-          those that have never existed before and from his lateral mind,
-          apart from having an analytical nature, you also have a lot of
-          ideas, are analytical, thorough & like to gather information, like
-          to motivate in various ways, some through his cheerful nature, some
-          through his empathetic nature. there are also those who always want
-          to advance other people, are hardworking, organized and impatient to
-          act.
+          <b>SƠN TÙNG</b>,là một người có rất nhiều ý tưởng, cả những ý tưởng chưa từng tồn tại trước đây và từ suy nghĩ đa dạng của mình, ngoài việc có nhiều ý tưởng, mình còn thích phân tích, kỹ lưỡng và thích thu thập thông tin, thích suy luận theo nhiều chiều hướng khác nhau, một số thông qua bản tính vui vẻ, một số thông qua sự đồng cảm của mình. Rất muốn đồng hành phát triển cùng người khác trong sự chăm chỉ, ngăn nắp và nhẫn trong hành động.
         </p>
       </div>
       <div className="col-sm-12 col-md-6 col-lg-6">
