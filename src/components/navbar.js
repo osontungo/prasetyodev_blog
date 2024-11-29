@@ -60,7 +60,7 @@ const Navbar = props => {
                 activeClassName="active"
                 to="/portofolio"
               >
-                Kĩnh lực hoạt động
+                Lĩnh lực hoạt động
               </Link>
             </li>
             <li className="nav-item">
