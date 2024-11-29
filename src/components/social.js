@@ -5,9 +5,9 @@ const Social = () => {
   return (
     <div className="d-flex justify-content-start mb-3">
       <SocialIcon
-        network="github"
+        network="facebook"
         target="_blank"
-        href="https://github.com/prasetyodimas"
+        href="https://facebook.com/lesontungxyz"
         style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
