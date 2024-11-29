@@ -7,7 +7,7 @@ module.exports = {
       description: 
         " Welcome to prasetyodev a professional site portofolio & blog, Empower your online presence with a skilled Web Developer Specialist.",
       author: {
-        name: "Dimas Prasetyo",
+        name: "Sơn Tùng",
         summary:
           "Frontend developers & Fullstack Developer play a vital role in creating the visual and interactive aspects of websites and web applications, ensuring a user-friendly and responsive experience for visitors. They need a strong understanding of HTML, CSS, JavaScript, and related technologies, as well as a keen eye for design and usability.",
       },
