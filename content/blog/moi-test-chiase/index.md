@@ -1,7 +1,7 @@
 ---
-title: Angular SSR - Angular Universal Packages
-date: "2023-11-23T22:14:23.284Z"
-description: "This guide describes Angular Universal, a technology that renders Angular applications on the server."
+title: Mới - Kiểm tra chia sẻ
+date: "2024-11-29T22:14:23.284Z"
+description: "Kiểm tra bài viết mới, a technology that renders Angular applications on the server."
 ---
 
 Pengertian dari teknik SSR, Server Side Rendering atau SSR merupakan salah satu jenis metode rendering, dimana proses kompilasi / rendering dilakukan pada sisi server.
