@@ -18,7 +18,7 @@ const About = ({ location }) => {
           className="col-sm-12 col-md-8 col-lg-10 order-2 order-sm-1 order-md-1 order-lg-1 spacer-0-sm"
         >
           <p className="about-intro">
-            Rất vui được gặp bạn ở đây! Mình là Sơn Tùng, mình sống ở Hà Nội hiện đang làm việc tại <a className="d-block m-3" href="https://www.thestartup.vn"> Công ty Cổ phần tập đoàn The Startup.</a>
+            Rất vui được gặp bạn ở đây! Mình là Sơn Tùng, mình sống ở Hà Nội hiện đang làm việc tại<a href="https://www.thestartup.vn"> Công ty Cổ phần tập đoàn The Startup.</a>
             <br />I am a <b>Frontend Developer Specialist</b>, I have
             participated in several open source project and built several
             projects,{" "}
