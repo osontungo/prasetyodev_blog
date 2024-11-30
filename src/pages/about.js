@@ -24,7 +24,7 @@ const About = ({ location }) => {
             thiết lập hệ thống xây dựng kế hoạch kinh doanh các mảng như {" "}
             <b>Đào tạo nguồn nhân lực</b> (Khai thác phần tích dữ liệu Big data, <a href="http://idolacademy.vn">xây dựng nhân hiệu</a>, <a href="https://www.ivip.vn/">nghành nghề  thực chiến kinh doanh truyền thống...</a>);
             <b>Thẩm mỹ viện</b> (Phẫu thuật thẩm mỹ, Chăm sóc sức khỏe - sắc đẹp chủ động, thực phẩm bổ dưỡng...);
-            <b><a href="https://zalo.me/0915467890">Hỗ trợ tài chính</a></b> (Tư vấn các khoản vay tài chính từ 5-100 tỷ);
+            <b>Hỗ trợ tài chính</b> (<a href="https://zalo.me/0915467890">Tư vấn các khoản vay tài chính từ 5-100 tỷ</a>);
             <b>Chuỗi siêu thị thực phẩm</b> (Nông sản, đặc sản, ứng dụng mua sắm thực phẩm hàng ngày...).<br />
              Và cũng có một số kinh nghiệm về{" "} <b>lãnh đạo bao gồm vai trò quản lý đội nhóm</b>.
           </p>
