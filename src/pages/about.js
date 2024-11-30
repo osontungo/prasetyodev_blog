@@ -10,8 +10,8 @@ import PropTypes from "prop-types"
 
 const About = ({ location }) => {
   return (
-    <Layout location={location} title={"About"}>
-      <Seo title="About" />
+    <Layout location={location} title={"Giới thiệu"}>
+      <Seo title="Giới thiệu" />
       <BlockElement component="div" className="d-flex section-about-me row">
         <BlockElement
           component="div"

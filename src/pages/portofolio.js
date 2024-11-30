@@ -19,8 +19,8 @@ const Portofolio = ({ location }) => {
   }
 
   return (
-    <Layout location={location} title={"Portofolio"}>
-      <Seo title="Portofolio" />
+    <Layout location={location} title={"Dự án & Đầu tư"}>
+      <Seo title="Dự án & Đầu tư" />
       <div className="row content-of-porto py-lg-5">
         <div className="col-lg-9 col-md-10 mx-auto">
           <h2 className="heading-porto font-weight font-bold">My Portofolio</h2>

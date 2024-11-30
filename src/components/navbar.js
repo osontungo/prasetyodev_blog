@@ -60,7 +60,7 @@ const Navbar = props => {
                 activeClassName="active"
                 to="/portofolio"
               >
-                Lĩnh lực hoạt động
+                Dự án & Đầu tư
               </Link>
             </li>
             <li className="nav-item">
