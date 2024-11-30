@@ -31,8 +31,8 @@ const Timelines = () => {
           className="vertical-timeline-element--work"
           contentStyle={{ background: "#f7f7f7", color: "#000" }}
           contentArrowStyle={{ borderRight: "7px solid  #f7f7f7" }}
-          date="2024 - present"
-          iconStyle={{ background: "rgb(240 240 240)", color: "#fff" }}
+          date="2024 - Đến nay"
+          iconStyle={{ background: "rgb(008 110 030)", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">
             PT Wide Technology Indonesia
