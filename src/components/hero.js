@@ -23,7 +23,7 @@ const Hero = () => {
             <Typewriter
               onInit={typewriter => {
                 typewriter
-                  .typeString(`The Startup - Kiến tạo cuộc sống _`)
+                  .typeString(`Kiến tạo cuộc sống _`)
                   .pauseFor(1000)
                   .start()
               }}
