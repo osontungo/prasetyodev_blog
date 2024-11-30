@@ -18,22 +18,18 @@ const About = ({ location }) => {
           className="col-sm-12 col-md-8 col-lg-10 order-2 order-sm-1 order-md-1 order-lg-1 spacer-0-sm"
         >
           <p className="about-intro">
-            Rất vui được gặp bạn ở đây! Mình là Sơn Tùng, mình sống ở Hà Nội
-            hiện đang làm việc tại<a href="https://www.thestartup.vn"> Công ty Cổ phần tập đoàn The Startup.</a>
-            <br />I am a <b>Frontend Developer Specialist</b>, I have
-            participated in several open source project and built several
-            projects,{" "}
-            <b>demonstrating my ability to write concise and clean code</b>,
-            Passionate about <b>web development Specialist</b>, creating about
-            mobile first friendly <b>Progressive web application</b>,
-            understanding good in <b>search engine optimation</b> practice,
-            specialist user interface design <b>(UI)</b> and <b>(UX)</b>{" "}
-            solutions, make the application run smoothly in other device{" "}
-            <b>(Mobile, Tablet/Phablet, Desktop)</b>.<br />
-            And also have some experience about{" "}
-            <b>leadership include role of team leadership</b>.
+            Rất vui được gặp bạn ở đây! Tôi là Sơn Tùng, sống ở Hà Nội
+            đang làm việc tại <a href="https://www.thestartup.vn">Công ty Cổ phần tập đoàn The Startup.</a>
+            <br />Tôi phụ trách <b>Xây dựng phát triển đội ngũ nhân lực kinh doanh</b> cho công ty, Tôi tham gia
+            thiết lập hệ thống xây dựng kế hoạch kinh doanh các mảng như,{" "}
+            <b>Đào tạo nguồn nhân lực</b> (Khai thác phần tích dữ liệu Big data, xây dựng nhân hiệu, nghành nghề  thực chiến kinh doanh truyền thống...),
+            <b>Thẩm mỹ viện</b> (Phẫu thuật thẩm mỹ, Chăm sóc sức khỏe - sắc đẹp chủ động, thực phẩm bổ dưỡng...)
+            <b>Hỗ trợ tài chính</b> (Tư vấn các khoản vay tài chính từ 5-100 tỷ)
+            <b>Chuỗi siêu thị thực phẩm</b> (Nông sản, đặc sản, ứng dụng mua sắm thực phẩm hàng ngày...).<br />
+            Và cũng có một số kinh nghiệm về{" "}
+            <b>lãnh đạo bao gồm vai trò quản lý đội nhóm</b>.
           </p>
-          <Link href="/personalities">See My Personalities</Link>
+          <Link href="/personalities">Tìm hiểu thêm</Link>
         </BlockElement>
         <BlockElement
           component="div"
