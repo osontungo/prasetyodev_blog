@@ -29,7 +29,7 @@ const Social = () => {
         style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
-        network="focus"
+        network="tumblr"
         target="_blank"
         href="https://mydesospace.com/u/lesontung"
         style={{ height: 30, width: 30 }}
