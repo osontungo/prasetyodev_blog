@@ -21,8 +21,8 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <BlockElement component="div" type="min-height">
-        <h2>404: Not Found</h2>
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+        <h2>404: Không tìm thấy</h2>
+        <p>Bạn vừa bấm vào link không tồn tại... kiểm tra lại.</p>
       </BlockElement>
     </Layout>
   )
