@@ -25,13 +25,13 @@ const Social = () => {
       <SocialIcon
         network="instagram"
         target="_blank"
-        href="https://www.instagram.com/dimas_prsetyo"
+        href="https://www.instagram.com/tungthestartup"
         style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
-        network="stackoverflow"
+        network="focus"
         target="_blank"
-        href="https://stackoverflow.com/users/4939125/dimas-prasetyo"
+        href="https://mydesospace.com/u/lesontung"
         style={{ height: 30, width: 30 }}
       />
     </div>
