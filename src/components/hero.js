@@ -31,7 +31,7 @@ const Hero = () => {
           </h2>
           <p className="lead text-transform-minus-2">
           Tận hưởng <b>từng khoảnh khắc</b>.{" "}
-          Nơi ghi lại hành trình tìm kiếm ý nghĩa cuộc sống, qua những điều <b>giản dị</b>{" "} và <b>sâu sắc</b>nhất. 🌟
+          Nơi ghi lại hành trình tìm kiếm <b>ý nghĩa cuộc sống</b>, qua những điều <b>giản dị</b>{" "} và <b>sâu sắc</b> nhất. 🌟
           </p>
           <Social />
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
