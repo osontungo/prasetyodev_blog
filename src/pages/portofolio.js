@@ -101,7 +101,7 @@ const Portofolio = ({ location }) => {
 KHÔNG YÊU CẦU CÓ KIẾN THỨC, KINH NGHIỆM VỀ CÔNG NGHỆ THÔNG TIN, DẠY MỚI TỪ ĐẦU
 ỨNG DỤNG CÁC CÔNG NGHỆ TỐI TÂN NHẤT ĐANG ĐƯỢC CÁC CHUYÊN GIA HÀNG ĐẦU TIN DÙNG
 KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
-            tags="Đào tạo, Big dat"
+            tags="Đào tạo, Big data"
             cta="https://www.bigdata-ai.vn"
           ></Cards>
         </div>
