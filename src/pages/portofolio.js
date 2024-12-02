@@ -113,6 +113,7 @@ KHÔNG YÊU CẦU CÓ KIẾN THỨC, KINH NGHIỆM VỀ CÔNG NGHỆ THÔNG TIN,
 ỨNG DỤNG CÁC CÔNG NGHỆ TỐI TÂN NHẤT ĐANG ĐƯỢC CÁC CHUYÊN GIA HÀNG ĐẦU TIN DÙNG
 KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             tags="Đào tạo, Big dat"
+            cta="https://www.bigdata-ai.vn"
           ></Cards>
         </div>
         <div className="col">
@@ -146,6 +147,7 @@ THỜI GIAN HỌC NGẮN TRONG 01 THÁNG, DẠY CHẤT LƯỢNG CAO CHỈ 10 HV/
 GIẢNG VIÊN SIÊU CẤP LÀ VUA BẾP, TỔNG BẾP TRƯỞNG KS 5 SAO, PHÙ THỦY PHA CHẾ
 TỐT NGHIỆP CÓ BẰNG GIÁ TRỊ TOÀN QUỐC, XIN VIỆC DỄ DÀNG NẾU MUỐN"
             tags="Đào tạo, Ngành nghề F&B"
+            cta="https://www.ivip.vn"
           ></Cards>
         </div>
         <div className="col">
