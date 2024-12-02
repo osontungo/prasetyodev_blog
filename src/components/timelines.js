@@ -110,8 +110,8 @@ const Timelines = () => {
             Sinh viên Ngành Kế Toán - Kiểm Toán
           </h4>
           <p>
-            Bootstrap · Laravel · Google Material Design · Vue · Laravel ·
-            jQuery · PostgreSQL
+          Kế toán tài chính, kế toán quản trị, kiểm toán, thuế, lập báo cáo tài chính · Excel, MISA, SAP, phân tích dữ liệu, hệ thống thông tin kế toán
+          · Tư duy logic, giải quyết vấn đề, dự báo tài chính · Làm việc nhóm, giao tiếp, quản lý thời gian · Tỉ mỉ, trung thực, tuân thủ pháp luật
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -127,8 +127,8 @@ const Timelines = () => {
             Sinh viên Ngành Kế Toán Doanh Nghiệp
           </h4>
           <p>
-            Technology Of Yogyakarta University - D3 System Information /
-            Informatic Management - 2.79
+          Kế toán tổng hợp, kế toán chi tiết, kế toán thuế, báo cáo tài chính, phân tích tài chính · MISA, FAST, SAP ·
+          Dòng tiền, công nợ, hàng tồn kho, tài sản cố định · Kểm soát nội bộ, tuân thủ pháp luật
           </p>
         </VerticalTimelineElement>
       </VerticalTimeline>
