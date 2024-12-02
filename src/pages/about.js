@@ -22,7 +22,7 @@ const About = ({ location }) => {
             đang làm việc tại <a href="https://www.thestartup.vn">Công ty Cổ phần tập đoàn The Startup.</a>
             <br />Tôi phụ trách <b>Xây dựng phát triển đội ngũ nhân lực kinh doanh</b>, Tham gia
             thiết lập hệ thống xây dựng kế hoạch kinh doanh về {" "}
-            <b>Đào tạo nguồn nhân lực</b> (Khai thác phần tích dữ liệu Big data, <a href="http://idolacademy.vn">xây dựng nhân hiệu</a>, <a href="https://www.ivip.vn/">nghành nghề  thực chiến kinh doanh truyền thống...</a>);
+            <b>Đào tạo nguồn nhân lực</b> (Khai thác phần tích dữ liệu Big data, <a href="http://www.idolacademy.vn">xây dựng nhân hiệu</a>, <a href="https://www.ivip.vn/">nghành nghề  thực chiến kinh doanh truyền thống...</a>);
             <b>Thẩm mỹ viện</b> (Phẫu thuật thẩm mỹ, Chăm sóc sức khỏe - sắc đẹp chủ động, thực phẩm bổ dưỡng...);
             <b>Hỗ trợ tài chính</b> (<a href="https://zalo.me/0915467890">Tư vấn các khoản vay tài chính từ 5-100 tỷ</a>);
             <b>Chuỗi siêu thị thực phẩm</b> (Nông sản, đặc sản, ứng dụng mua sắm thực phẩm hàng ngày...).<br />

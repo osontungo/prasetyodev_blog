@@ -119,7 +119,7 @@ const Timelines = () => {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2011 - 2014"
+          date="2007 - 2010"
           contentStyle={{ background: "#f7f7f7", color: "#000" }}
           iconStyle={{ background: "rgb(240 240 240)", color: "#fff" }}
         >
@@ -127,7 +127,7 @@ const Timelines = () => {
           Trường Cao đẳng Kinh tế - Kỹ thuật Công Thương
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Kế toán doanh nghiệp
+            Sinh viên Ngành Kế Toán Doanh Nghiệp
           </h4>
           <p>
             Technology Of Yogyakarta University - D3 System Information /
