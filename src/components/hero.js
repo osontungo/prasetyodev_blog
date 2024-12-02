@@ -30,7 +30,7 @@ const Hero = () => {
             />
           </h2>
           <p className="lead text-transform-minus-2">
-          Tận hưởng <b>từng khoảnh khắc</b> trong <b>Cuộc sống.</b>{" "}
+          Tận hưởng <b>từng khoảnh khắc</b>.{" "}
           Nơi ghi lại hành trình tìm kiếm ý nghĩa cuộc sống, qua những điều <b>giản dị</b>{" "} và <b>sâu sắc</b>nhất. 🌟
           </p>
           <Social />
