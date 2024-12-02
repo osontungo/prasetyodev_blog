@@ -16,7 +16,7 @@ const Timelines = () => {
       >
         <blockquote className="m-5 content-blockqote">
           <p className="text-center">
-            "<b>inh nghiệm là một khía cạnh cơ bản của cuộc sống con người </b>liên 
+            "<b>Kinh nghiệm là một khía cạnh cơ bản của cuộc sống con người</b> liên 
             quan đến việc học tập và phát triển cá nhân thông qua tương tác trực tiếp với 
             thế giới. Đây là một hiện tượng chủ quan và đa diện, được hình thành bởi 
             quan điểm, cảm xúc của từng cá nhân và bối cảnh văn hóa và xã hội mà nó 
@@ -39,7 +39,7 @@ const Timelines = () => {
           <h4 className="vertical-timeline-element-subtitle">Quản lý kinh doanh - nhân sự - đối ngoại</h4>
           <p>
           Bất động sản ( Sàn giao dịch BĐS, Mua bán sát nhập… )<br />
-          Thẩm mỹ viện ( các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm sóc sức khoẻ và làm đẹp chủ động ) <br />
+          Thẩm mỹ viện ( các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm sóc sức khoẻ và làm đẹp chủ động )<br />
           Dịch vụ tư vấn luật ( Xử lý tranh chấp dân sự và hình sự )<br />
           Tài chính ( Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )<br />
           Đào tạo nghề ( Dạy nghề chất lượng cao )<br />
