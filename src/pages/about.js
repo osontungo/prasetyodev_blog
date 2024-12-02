@@ -44,7 +44,6 @@ const About = ({ location }) => {
     </Layout>
   )
 }
-
 About.propTypes = {
   location: PropTypes.object,
 }
