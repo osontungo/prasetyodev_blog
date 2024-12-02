@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import MyPersonality from "../components/CCQLNN"
+import CCQLNN from "../components/CCQLNN"
 import PropTypes from "prop-types"
 
 const CCQLNN = ({ location }) => {
