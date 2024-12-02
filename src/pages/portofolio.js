@@ -160,10 +160,10 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             quality={95}
           />
           <Cards
-            title="Sungnikah.(com)"
-            descriptions="Sungnikah is a provider of digital wedding/wedding invitation services such as wedding website design, wedding ceremony design, and souvenir invitation design and brings together clients/users and wedding vendors."
+            title="Xuvi Farm"
+            descriptions="Chợ nông sản online là nền tảng trực tuyến kết nối người bán và người mua nông sản. Tại đây, các sản phẩm như rau, củ, quả, thịt, cá, và thực phẩm chế biến được giao dịch dễ dàng, thường qua ứng dụng hoặc website. Chợ này giúp giảm trung gian, đảm bảo giá cả minh bạch và thuận tiện trong mua sắm, đặc biệt với sản phẩm sạch, hữu cơ."
             tags="Web-Application"
-            cta="https://www.idolacademy.vn"
+            cta="https://www.nongssan.asia"
           ></Cards>
         </div>
         <div className="col">
@@ -175,10 +175,10 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             quality={95}
           />
           <Cards
-            title="Sabi ( LaaS )"
-            descriptions="Sabi are account aggregator solution that provides access to business solutions with integrated financing aimed at micro and small business owners. Sabi operates as a member of the Investree Group, which is under the supervision and licensing of the Financial Services Authority (OJK)."
+            title="King Broker Academy"
+            descriptions="Đào tạo cấp chứng chỉ môi giới bất động sản là khóa học trang bị kiến thức và kỹ năng cần thiết cho nghề môi giới, như pháp lý, quy hoạch, kinh doanh và đàm phán. Hoàn thành khóa học, học viên sẽ tham gia kỳ thi để được cấp chứng chỉ hành nghề, đáp ứng yêu cầu pháp luật và nâng cao uy tín trong lĩnh vực bất động sản."
             tags="Web-Application"
-            cta="https://getsabi.id"
+            cta="https://kingbrokeracademy.com/"
           ></Cards>
         </div>
         <div className="col">
@@ -190,10 +190,10 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             quality={95}
           />
           <Cards
-            title="UIII Digital Library Aggregator Systems"
-            descriptions="Digital Library Aggregator System, the purpose of this application can be used in various campus or academic institutions, combining information from the OJS, EPRINTS, SLIMS platforms by making it easy to search for information on one platform which includes information on journal data, dissertations, etc."
-            tags="Web-Application"
-            cta="https://library.uiii.ac.id"
+            title="Hỗ trợ vay tài chính"
+            descriptions="Tư vấn các khoản vay tài chính từ 5-100 tỷ"
+            tags="Tài chính - Khoản vay"
+            cta="https://zalo.me/0915467890"
           ></Cards>
         </div>
       </div>
