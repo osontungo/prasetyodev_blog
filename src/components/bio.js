@@ -45,10 +45,10 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Được viết bở <strong>{author.name}</strong> {author?.summary || null}
+          Được viết bởi <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a
-            href={`https://desocialworld.com/u/${social?.focus}`}
+            href={`https://desocialworld.com/u/lesontung`}
             target="_blank"
             rel="noreferrer"
           >
