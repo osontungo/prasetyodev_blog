@@ -42,7 +42,7 @@ const Hero = () => {
           <Social />
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
             <Buttons propClass="btn-bloby" propRedirect="/about">
-              Xem thêm
+              Tìm hiểu thêm
             </Buttons>
           </div>
         </div>
