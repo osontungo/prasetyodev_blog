@@ -96,13 +96,10 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Đào tạo khai thác dữ liệu Big Data"
-            descriptions="ĐÂY LÀ MỘT CHƯƠNG TRÌNH ĐÀO TẠO GIA TỐC, ĐÃ ĐƯỢC NGHIÊN CỨU KĨ LƯỠNG VỚI ỨNG DỤNG CAO, MANG LẠI HIỆU QUẢ TỨC THÌ ĐỐI VỚI MỌI LĨNH VỰC KINH DOANH, HỌC 1 TUẦN, THU NHẬP TRÊN 1000$/THÁNG
-KHÔNG YÊU CẦU CÓ KIẾN THỨC, KINH NGHIỆM VỀ CÔNG NGHỆ THÔNG TIN, DẠY MỚI TỪ ĐẦU
-ỨNG DỤNG CÁC CÔNG NGHỆ TỐI TÂN NHẤT ĐANG ĐƯỢC CÁC CHUYÊN GIA HÀNG ĐẦU TIN DÙNG
-KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
-            tags="Đào tạo, Big data"
-            cta="https://www.bigdata-ai.vn"
+            title="Xây dựng thương hiệu cá nhân"
+            descriptions="Để xây dựng nhân hiệu hiệu quả, bạn cần tuân theo những quy trình cơ bản nhằm tạo dựng một hình ảnh cá nhân chuyên nghiệp & đáng tin cậy"
+            tags="Đào tạo, Thương hiệu"
+            cta="https://www.idolacademy.vn"
           ></Cards>
         </div>
         <div className="col">
@@ -131,10 +128,7 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
           </Slider>
           <Cards
             title="Đào tạo nghề F&B"
-            descriptions="HỌC PHÍ RẺ HƠN THỊ TRƯỜNG 20-30%
-THỜI GIAN HỌC NGẮN TRONG 01 THÁNG, DẠY CHẤT LƯỢNG CAO CHỈ 10 HV/LỚP
-GIẢNG VIÊN SIÊU CẤP LÀ VUA BẾP, TỔNG BẾP TRƯỞNG KS 5 SAO, PHÙ THỦY PHA CHẾ
-TỐT NGHIỆP CÓ BẰNG GIÁ TRỊ TOÀN QUỐC, XIN VIỆC DỄ DÀNG NẾU MUỐN"
+            descriptions="HỌC PHÍ RẺ HƠN THỊ TRƯỜNG 20-30% THỜI GIAN HỌC NGẮN TRONG 01 THÁNG, DẠY CHẤT LƯỢNG CAO CHỈ 10 HV/LỚP GIẢNG VIÊN SIÊU CẤP LÀ VUA BẾP, TỔNG BẾP TRƯỞNG KS 5 SAO, PHÙ THỦY PHA CHẾ TỐT NGHIỆP CÓ BẰNG GIÁ TRỊ TOÀN QUỐC, XIN VIỆC DỄ DÀNG NẾU MUỐN"
             tags="Đào tạo, Ngành nghề F&B"
             cta="https://www.ivip.vn"
           ></Cards>
@@ -148,10 +142,13 @@ TỐT NGHIỆP CÓ BẰNG GIÁ TRỊ TOÀN QUỐC, XIN VIỆC DỄ DÀNG NẾU M
             quality={95}
           />
           <Cards
-            title="Đào tạo nhân hiệu"
-            descriptions="Để xây dựng nhân hiệu hiệu quả, bạn cần tuân theo những quy trình cơ bản nhằm tạo dựng một hình ảnh cá nhân chuyên nghiệp & đáng tin cậy"
-            tags="Đào tạo- Thương hiệu"
-            cta="https://www.idolacademy.vn"
+            title="Khai thác dữ liệu Big Data"
+            descriptions="ĐÂY LÀ MỘT CHƯƠNG TRÌNH ĐÀO TẠO GIA TỐC, ĐÃ ĐƯỢC NGHIÊN CỨU KĨ LƯỠNG VỚI ỨNG DỤNG CAO, MANG LẠI HIỆU QUẢ TỨC THÌ ĐỐI VỚI MỌI LĨNH VỰC KINH DOANH, HỌC 1 TUẦN, THU NHẬP TRÊN 1000$/THÁNG
+KHÔNG YÊU CẦU CÓ KIẾN THỨC, KINH NGHIỆM VỀ CÔNG NGHỆ THÔNG TIN, DẠY MỚI TỪ ĐẦU
+ỨNG DỤNG CÁC CÔNG NGHỆ TỐI TÂN NHẤT ĐANG ĐƯỢC CÁC CHUYÊN GIA HÀNG ĐẦU TIN DÙNG
+KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
+            tags="Đào tạo- Big data"
+            cta="https://www.bigdata-ai.vn"
           ></Cards>
         </div>
         <div className="col">
