@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import chungchiql from "../components/chungchiql"
+import chungchiql from "../components/chungchiqlnn"
 import PropTypes from "prop-types"
 
 const Personalities = ({ location }) => {
@@ -17,4 +17,4 @@ Personalities.propTypes = {
   location: PropTypes.object,
 }
 
-export default chungchiql
+export default chungchiqlnn
