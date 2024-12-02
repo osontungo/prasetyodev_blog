@@ -59,7 +59,7 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
-               <a href="http://www.thestatup.vn"><img src={QLNNIcon} alt="icon" className="skill-img img-fluid" /></a>
+               <a href="/chungchiqlnn"><img src={QLNNIcon} alt="icon" className="skill-img img-fluid" /></a>
               </BlockElement>
             </div>
             <div className="col col-md-3 col-lg-3 mt-5">
