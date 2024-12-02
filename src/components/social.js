@@ -46,6 +46,12 @@ const Social = () => {
         href="https://www.tiktok.com/@tungthestartup"
         style={{ height: 50, width: 50 }}
       />
+            <SocialIcon
+        network="telegram"
+        target="_blank"
+        href="https://www.t.me/osontungo"
+        style={{ height: 50, width: 50 }}
+      />
     </div>
   )
 }
