@@ -34,7 +34,7 @@ const Timelines = () => {
           iconStyle={{ background: "rgb(008 110 030)", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">
-            Công ty cổ phần tập đoàn The Startup
+          Công ty cổ phần tập đoàn The Startup
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Quản lý nhân sự - kinh doanh - đối ngoại</h4>
           <p>
@@ -45,6 +45,21 @@ const Timelines = () => {
           Đào tạo nghề <i>(Dạy nghề chất lượng cao )</i><br />
           Bán lẻ <i>(Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị )</i><br />
           Công nghệ <i>(Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )</i>
+          </p>
+        </VerticalTimelineElement>
+        <VerticalTimelineElement
+          className="vertical-timeline-element--work"
+          contentStyle={{ background: "#f7f7f7", color: "#000" }}
+          contentArrowStyle={{ borderRight: "7px solid  #f7f7f7" }}
+          date="2024 - Đến nay"
+          iconStyle={{ background: "rgb(008 110 030)", color: "#fff" }}
+        >
+          <h3 className="vertical-timeline-element-title">
+          Công Ty Cổ Phần Tập Đoàn Venus Beauty Paradise
+          </h3>
+          <h4 className="vertical-timeline-element-subtitle">Quản lý nhân sự - kinh doanh - đối ngoại</h4>
+          <p>
+          Dịch vụ thẩm mỹ · Thực phẩm chức năng · Gói chăm sóc sức khoẻ và làm đẹp chủ động 
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
