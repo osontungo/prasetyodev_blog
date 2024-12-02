@@ -13,8 +13,8 @@ const Qlnn = ({ location }) => {
   )
 }
 
-Personalities.propTypes = {
+Qlnn.propTypes = {
   location: PropTypes.object,
 }
 
-export default Personalities
+export default Qlnn
