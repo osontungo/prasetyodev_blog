@@ -26,7 +26,7 @@ const MyPersonality = () => {
     <BlockElement className="row mb-5 mt-5" component="div">
       <div className="col-sm-12 col-md-6 col-lg-6">
         <p className="mt-5">
-          <b>Sơn Tùng Xyz</b> - Nhân hiệu là sự lặp đi lặp lại một cách kiên định những thông điệp và giá trị 
+          <b>Https://SơnTùng.Xyz</b> - Nhân hiệu là sự lặp đi lặp lại một cách kiên định những thông điệp và giá trị 
           mà mình đã đặt ra, là sự phấn đấu kiên cường để bảo vệ những điều tốt đẹp mà mình đang đại diện.  
           không phải là một công việc, không có ngày nghỉ phép, không có thủ thuật mỳ ăn liền. Nó là quá trình 
           rèn luyện để sống đúng, sống thật với chính bản thân mình.
