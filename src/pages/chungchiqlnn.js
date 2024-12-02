@@ -1,10 +1,10 @@
 import React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Qlnn from "../components/qlnn"
+import qlnn from "../components/qlnn"
 import PropTypes from "prop-types"
 
-const Qlnn = ({ location }) => {
+const qlnn = ({ location }) => {
   return (
     <Layout location={location} title={"Personality"}>
       <Seo title="Personalities" />
@@ -13,8 +13,8 @@ const Qlnn = ({ location }) => {
   )
 }
 
-Qlnn.propTypes = {
+qlnn.propTypes = {
   location: PropTypes.object,
 }
 
-export default Qlnn
+export default qlnn
