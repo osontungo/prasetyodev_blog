@@ -23,7 +23,7 @@ const Layout = ({ location, title, children }) => {
               .typeString("Chào mừng bạn :)")
               .pauseFor(2000)
               .deleteAll()
-              .typeString(`{ Https://Sơn Tùng.Xyz }`)
+              .typeString(`{Https://SơnTùng.Xyz}`)
               .start()
           }}
         />
