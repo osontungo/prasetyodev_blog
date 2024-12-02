@@ -23,7 +23,7 @@ const Portofolio = ({ location }) => {
       <Seo title="Công việc & Dự án" />
       <div className="row content-of-porto py-lg-5">
         <div className="col-lg-9 col-md-10 mx-auto">
-          <h2 className="heading-porto font-weight font-bold">Công việc & dự án đang thực hiện</h2>
+          <h2 className="heading-porto font-weight font-bold">Công việc & dự án thực hiện</h2>
           <p className="lead text-body-secondary">
           Xu hướng kinh doanh hiện nay tập trung vào các lĩnh vực bền vững và ứng dụng công nghệ. 
           Chăm sóc sức khỏe cá nhân hóa, thẩm mỹ công nghệ cao, thực phẩm sạch, đào tạo nghề trực tuyến, 
