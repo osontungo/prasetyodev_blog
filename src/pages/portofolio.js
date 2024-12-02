@@ -59,9 +59,20 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="AMHES - Amertana Hospital Enterprise Sistem"
-            descriptions="This project is to build a health industry using technology that is used to support hospital needs starting from integration with laboratory machines, integration of BPJS, INACBG and insurance claims reporting, as well as hospital management including inventory management, doctor's fees and others."
-            tags="Web-Application"
+            title="Venus - Thẩm mỹ viện, chăm sóc sức khỏe chủ động"
+            descriptions="Bạn có biết? Sức khỏe không chỉ là không bệnh tật, mà còn là sự tươi trẻ, tràn đầy năng lượng từ bên trong! Gói chăm sóc sức khỏe & sắc đẹp chủ động sẽ mang đến cho bạn trải nghiệm toàn diện, giúp bạn sống khỏe, đẹp mỗi ngày mà không phải lo lắng!
+
+🔎 Xét Nghiệm Chuyên Sâu: Định kỳ kiểm tra các chỉ số sức khỏe quan trọng để hiểu rõ về cơ thể bạn. Không cần chờ đến khi bệnh tật xuất hiện mới quan tâm!
+
+👨‍⚕️ Tư Vấn Từ Bác Sỹ Chuyên Khoa: Được tư vấn bởi bác sỹ hàng đầu, cá nhân hóa phác đồ chăm sóc phù hợp với thể trạng và nhu cầu của bạn.
+
+🍃 Cung Cấp Thực Phẩm Chức Năng Định Kỳ: Mỗi tháng, chúng tôi sẽ cung cấp các loại thực phẩm chức năng chất lượng cao, được lựa chọn kỹ lưỡng để hỗ trợ sức khỏe và sắc đẹp từ bên trong.
+
+💧 Truyền Dưỡng Chất Làm Đẹp & Chống Lão Hóa:
+
+Dưỡng chất chuyên biệt giúp tái tạo da, làm mờ nếp nhăn, tăng độ đàn hồi và mang lại làn da rạng rỡ.
+Chống lão hóa tối ưu với liệu trình truyền dưỡng chất trực tiếp, bổ sung vitamin, khoáng chất và các thành phần dưỡng da cần thiết, giúp giữ gìn tuổi thanh xuân và chống lại dấu hiệu lão hóa từ bên trong.."
+            tags="Sức khỏe - Làm đẹp"
           ></Cards>
         </div>
         <div className="col">
@@ -96,9 +107,12 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Marzoom"
-            descriptions="Marzoom is an application that is used to help pricebook users based on the PWA mobile application in searching for information and looking for the cheapest prices as well as being able to find sources of accurate data and high credibility from online and offline (o2o) stores."
-            tags="PWA, Web-Application"
+            title="Đào tạo khai thác dữ liệu Big Data"
+            descriptions="ĐÂY LÀ MỘT CHƯƠNG TRÌNH ĐÀO TẠO GIA TỐC, ĐÃ ĐƯỢC NGHIÊN CỨU KĨ LƯỠNG VỚI ỨNG DỤNG CAO, MANG LẠI HIỆU QUẢ TỨC THÌ ĐỐI VỚI MỌI LĨNH VỰC KINH DOANH, HỌC 1 TUẦN, THU NHẬP TRÊN 1000$/THÁNG
+KHÔNG YÊU CẦU CÓ KIẾN THỨC, KINH NGHIỆM VỀ CÔNG NGHỆ THÔNG TIN, DẠY MỚI TỪ ĐẦU
+ỨNG DỤNG CÁC CÔNG NGHỆ TỐI TÂN NHẤT ĐANG ĐƯỢC CÁC CHUYÊN GIA HÀNG ĐẦU TIN DÙNG
+KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
+            tags="Đào tạo, Big dat"
           ></Cards>
         </div>
         <div className="col">
@@ -126,9 +140,12 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Mitra"
-            descriptions="Pricebook Partner is an application used to help shop partners or partners of our company, with the PWA mobile application used to manage inventory data, sales analysis, user behavior, user visitors and shop branding in selling gadgets."
-            tags="PWA, Web-Application"
+            title="Đào tạo nghề F&B"
+            descriptions="HỌC PHÍ RẺ HƠN THỊ TRƯỜNG 20-30%
+THỜI GIAN HỌC NGẮN TRONG 01 THÁNG, DẠY CHẤT LƯỢNG CAO CHỈ 10 HV/LỚP
+GIẢNG VIÊN SIÊU CẤP LÀ VUA BẾP, TỔNG BẾP TRƯỞNG KS 5 SAO, PHÙ THỦY PHA CHẾ
+TỐT NGHIỆP CÓ BẰNG GIÁ TRỊ TOÀN QUỐC, XIN VIỆC DỄ DÀNG NẾU MUỐN"
+            tags="Đào tạo, Ngành nghề F&B"
           ></Cards>
         </div>
         <div className="col">
@@ -140,9 +157,10 @@ const Portofolio = ({ location }) => {
             quality={95}
           />
           <Cards
-            title="E-Invoicing"
-            descriptions="The ultimate e-invoicing app tailored to empower MSMEs. With Sabi E-Invoicing, small and medium-sized MSMEs can effortlessly manage and organize their invoicing data, ensuring precision and clarity in their financial records. This invaluable tool not only streamlines your invoicing process but also compiles comprehensive financial histories, making it a breeze for users to request loans and financial services."
-            tags="Web-Application"
+            title="Đào tạo nhân hiệu"
+            descriptions="Để xây dựng nhân hiệu hiệu quả, bạn cần tuân theo những quy trình cơ bản nhằm tạo dựng một hình ảnh cá nhân chuyên nghiệp & đáng tin cậy"
+            tags="Đào tạo- Thương hiệu"
+            cta="https://www.idolacademy.vn"
           ></Cards>
         </div>
         <div className="col">
@@ -157,7 +175,7 @@ const Portofolio = ({ location }) => {
             title="Sungnikah.(com)"
             descriptions="Sungnikah is a provider of digital wedding/wedding invitation services such as wedding website design, wedding ceremony design, and souvenir invitation design and brings together clients/users and wedding vendors."
             tags="Web-Application"
-            cta="https://sungnikah.com"
+            cta="https://www.idolacademy.vn"
           ></Cards>
         </div>
         <div className="col">
