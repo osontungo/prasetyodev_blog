@@ -26,7 +26,7 @@ const qlnn = () => {
     <BlockElement className="row mb-5 mt-5" component="div">
       <div className="col-sm-12 col-md-6 col-lg-6">
         <p className="mt-5">
-          <b>Chứng chỉ Chuyên Viên Quản lý Nhà Nước</b>,là abcxyz....
+          <b>Chứng chỉ Chuyên Viên Quản lý Nhà Nước</b> là abcxyz....
         </p>
       </div>
       <div className="col-sm-12 col-md-6 col-lg-6">
