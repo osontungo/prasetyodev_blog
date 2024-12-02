@@ -41,7 +41,7 @@ import NetlifyIcon from "../assets/icons/skils/netlify.svg"
 const Skills = () => {
   return (
     <Fragment>
-      <h4>Skill & Tools</h4>
+      <h4>Kỹ năng & Công cụ</h4>
       <BlockElement className="content-skillset row mt-5 mb-5" component="div">
         <div className="col col-md-12 col-lg-12">
           <div className="row">
@@ -50,11 +50,13 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
+              <a href="http://thestatup.vn">
                 <img
                   src={HtmlIcon}
                   alt="icon"
                   className="skill-img img-fluid"
                 />
+               </a> 
               </BlockElement>
             </div>
             <div className="col col-md-3 col-lg-3 mt-5">
