@@ -38,13 +38,13 @@ const Timelines = () => {
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Quản lý kinh doanh - nhân sự - đối ngoại</h4>
           <p>
-          Bất động sản <h5 >(Sàn giao dịch BĐS, Mua bán sát nhập… )</h5><br />
-          Thẩm mỹ viện <h5 >(các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm sóc sức khoẻ và làm đẹp chủ động )</h5><br />
-          Dịch vụ tư vấn luật <h5 >(Xử lý tranh chấp dân sự và hình sự )</h5><br />
-          Tài chính <h5 >(Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )</h5><br />
-          Đào tạo nghề <h5 >(Dạy nghề chất lượng cao )</h5><br />
-          Bán lẻ <h5 >(Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị )</h5><br />
-          Công nghệ <h5 >(Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )</h5>
+          Bất động sản <i>(Sàn giao dịch BĐS, Mua bán sát nhập… )</i><br />
+          Thẩm mỹ viện <i >(các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm sóc sức khoẻ và làm đẹp chủ động )</i><br />
+          Dịch vụ tư vấn luật <i >(Xử lý tranh chấp dân sự và hình sự )</i><br />
+          Tài chính <i >(Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )</i><br />
+          Đào tạo nghề <i >(Dạy nghề chất lượng cao )</i><br />
+          Bán lẻ <i >(Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị )</i><br />
+          Công nghệ <i >(Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )</i>
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
