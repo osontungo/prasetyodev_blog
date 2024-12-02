@@ -36,21 +36,21 @@ const Portofolio = ({ location }) => {
         <div className="col">
           <Slider {...settings}>
             <StaticImage
-              src="../images/my-porto/amtek/kiosk-interface.png"
+              src="../images/my-porto/venus/kiosk-interface.png"
               alt="amtek-app"
               width={500}
               height={330}
               quality={95}
             />
             <StaticImage
-              src="../images/my-porto/amtek/kiosk-menu.png"
+              src="../images/my-porto/venus/kiosk-menu.png"
               alt="amtek-app"
               width={500}
               height={330}
               quality={95}
             />
             <StaticImage
-              src="../images/my-porto/amtek/simrs.png"
+              src="../images/my-porto/venus/simrs.png"
               alt="amtek-app"
               width={500}
               height={330}
