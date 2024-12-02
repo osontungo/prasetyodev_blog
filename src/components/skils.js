@@ -50,7 +50,7 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
-              <a href="http://thestatup.vn">
+              <a href="http://www.thestatup.vn">
                 <img
                   src={HtmlIcon}
                   alt="icon"
