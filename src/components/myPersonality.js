@@ -26,7 +26,10 @@ const MyPersonality = () => {
     <BlockElement className="row mb-5 mt-5" component="div">
       <div className="col-sm-12 col-md-6 col-lg-6">
         <p className="mt-5">
-          <b>SƠN TÙNG</b>,là một người có rất nhiều ý tưởng, cả những ý tưởng chưa từng tồn tại trước đây và từ suy nghĩ đa dạng của mình, ngoài việc có nhiều ý tưởng, mình còn thích phân tích, kỹ lưỡng và thích thu thập thông tin, thích suy luận theo nhiều chiều hướng khác nhau, một số thông qua bản tính vui vẻ, một số thông qua sự đồng cảm của mình. Rất muốn đồng hành phát triển cùng người khác trong sự chăm chỉ, ngăn nắp và nhẫn nại trong hành động.
+          <b>Sơn Tùng Xyz</b> - Nhân hiệu là sự lặp đi lặp lại một cách kiên định những thông điệp và giá trị 
+          mà mình đã đặt ra, là sự phấn đấu kiên cường để bảo vệ những điều tốt đẹp mà mình đang đại diện.  
+          không phải là một công việc, không có ngày nghỉ phép, không có thủ thuật mỳ ăn liền. Nó là quá trình 
+          rèn luyện để sống đúng, sống thật với chính bản thân mình.
         </p>
       </div>
       <div className="col-sm-12 col-md-6 col-lg-6">
