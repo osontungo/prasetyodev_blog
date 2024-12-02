@@ -162,7 +162,7 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
           <Cards
             title="Xuvi Farm"
             descriptions="Chợ nông sản online là nền tảng trực tuyến kết nối người bán và người mua nông sản. Tại đây, các sản phẩm như rau, củ, quả, thịt, cá, và thực phẩm chế biến được giao dịch dễ dàng, thường qua ứng dụng hoặc website. Chợ này giúp giảm trung gian, đảm bảo giá cả minh bạch và thuận tiện trong mua sắm, đặc biệt với sản phẩm sạch, hữu cơ."
-            tags="Web-Application"
+            tags="Siêu thị- Thực phẩm"
             cta="https://www.nongssan.asia"
           ></Cards>
         </div>
