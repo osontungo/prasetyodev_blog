@@ -26,7 +26,7 @@ const About = ({ location }) => {
             <b>Thẩm mỹ viện</b> (Phẫu thuật thẩm mỹ, Chăm sóc sức khỏe - sắc đẹp chủ động, thực phẩm bổ dưỡng...);
             <b>Hỗ trợ tài chính</b> (<a href="https://zalo.me/0915467890">Tư vấn các khoản vay tài chính từ 5-100 tỷ</a>);
             <b>Chuỗi siêu thị thực phẩm</b> (Nông sản, đặc sản, ứng dụng mua sắm thực phẩm hàng ngày...).<br />
-             Và cũng có một số kinh nghiệm về{" "} <b>lãnh đạo bao gồm vai trò quản lý đội nhóm</b>.
+             Và cũng có một số kinh nghiệm về{" "} <b>lãnh đạo quản lý đội nhóm</b>.
           </p>
           <Link href="/personalities">Tìm hiểu thêm</Link>
         </BlockElement>
