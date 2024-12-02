@@ -38,7 +38,7 @@ const Timelines = () => {
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Quản lý nhân sự - kinh doanh - đối ngoại</h4>
           <p>          
-          Thẩm mỹ viện <i>(<a href="https://www.venusbeautyparadise.com">Dịch vụ thẩm mỹ</a>, Thực phẩm chức năng, Gói chăm sóc sức khoẻ và làm đẹp chủ động )</i><br />
+          Thẩm mỹ viện <i>(<a href="https://www.venusbeautyparadise.com">Dịch vụ thẩm mỹ</a>,Thực phẩm chức năng,Gói chăm sóc sức khoẻ và làm đẹp chủ động )</i><br />
           Đào tạo nghề <i>(<a href="https://www.idolacademy.vn">Xây dựng nhân hiệu</a>, <a href="https://www.ivip.vn">Dạy nghề F&B</a>, <a href="https://www.bigdata-ai.vn">Phân tích dữ liệu Big Data</a>)</i><br />
           Bán lẻ <i>(Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị )</i><br />
           Tài chính <i>(<a href="https://zalo.me/0915467890">Tư vấn các khoản vay tài chính từ 5-100 tỷ</a>)</i><br />
