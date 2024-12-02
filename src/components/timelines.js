@@ -36,28 +36,28 @@ const Timelines = () => {
           <h3 className="vertical-timeline-element-title">
             Công ty cổ phần tập đoàn The Startup
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">Quản lý kinh doanh - nhân sự - đối ngoại</h4>
+          <h4 className="vertical-timeline-element-subtitle">Quản lý nhân sự - kinh doanh - đối ngoại</h4>
           <p>
           Bất động sản <i>(Sàn giao dịch BĐS, Mua bán sát nhập… )</i><br />
-          Thẩm mỹ viện <i >(các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm sóc sức khoẻ và làm đẹp chủ động )</i><br />
-          Dịch vụ tư vấn luật <i >(Xử lý tranh chấp dân sự và hình sự )</i><br />
-          Tài chính <i >(Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )</i><br />
-          Đào tạo nghề <i >(Dạy nghề chất lượng cao )</i><br />
-          Bán lẻ <i >(Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị )</i><br />
-          Công nghệ <i >(Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )</i>
+          Thẩm mỹ viện <i>(các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm sóc sức khoẻ và làm đẹp chủ động )</i><br />
+          Dịch vụ tư vấn luật <i>(Xử lý tranh chấp dân sự và hình sự )</i><br />
+          Tài chính <i>(Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )</i><br />
+          Đào tạo nghề <i>(Dạy nghề chất lượng cao )</i><br />
+          Bán lẻ <i>(Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị )</i><br />
+          Công nghệ <i>(Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )</i>
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: "#f7f7f7", color: "#000" }}
           contentArrowStyle={{ borderRight: "7px solid  #f7f7f7" }}
-          date="2022 - 2023"
+          date="2019 - 2024"
           iconStyle={{ background: "rgb(240 240 240)", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">
-            PT Sahabat Bisnis Inovasi
+            UBND Thị Trấn Ngọc Lặc - Thanh Hóa
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">Frontend Lead</h4>
+          <h4 className="vertical-timeline-element-subtitle">Công chức Tài chính kế toán</h4>
           <p>
             Team Leadership · Communication · Problem Solving · Cross-browser
             Compatibility · Analytical Skills · TypeScript · PrimeNG · Vuetify ·
@@ -67,15 +67,15 @@ const Timelines = () => {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2021 - 2022"
+          date="2018 - 2019"
           contentStyle={{ background: "#f7f7f7", color: "#000" }}
           iconStyle={{ background: "rgb(240 240 240)", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">
-            PT Sahabat Bisnis Inovasi
+            UBND Xã Ngọc Khê - Ngọc Lặc
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Sr. Frontend Developer
+            Công chức Tài chính kế toán
           </h4>
           <p>
             Problem Solving · Cross-browser Compatibility · Analytical Skills ·
@@ -85,15 +85,15 @@ const Timelines = () => {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2018 - 2021"
+          date="2015 - 2018"
           contentStyle={{ background: "#f7f7f7", color: "#000" }}
           iconStyle={{ background: "rgb(240 240 240)", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">
-            PT Pricebook Digital Indonesia
+            UBND Xã Lam Sơn - Ngọc Lặc
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Frontend Developer
+            Công chức Tài chính kế toán
           </h4>
           <p>
             Redux.js · REST APIs · SCSS · Progressive Web Applications (PWAs) ·
@@ -102,15 +102,15 @@ const Timelines = () => {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
-          date="2017 - 2018"
+          date="2010 - 2014"
           contentStyle={{ background: "#f7f7f7", color: "#000" }}
           iconStyle={{ background: "rgb(240 240 240)", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">
-            Amtek Labs ( Software House / IT Consultant )
+            Đại học công nghiệp TP Hồ Chí Minh
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Jr. Frontend Developer
+            Sinh viên Ngành Kế Toán - Kiểm Toán
           </h4>
           <p>
             Bootstrap · Laravel · Google Material Design · Vue · Laravel ·
@@ -119,15 +119,15 @@ const Timelines = () => {
         </VerticalTimelineElement>
         <VerticalTimelineElement
           className="vertical-timeline-element--education"
-          date="2011 - 2017"
+          date="2011 - 2014"
           contentStyle={{ background: "#f7f7f7", color: "#000" }}
           iconStyle={{ background: "rgb(240 240 240)", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">
-            Information System
+          Trường Cao đẳng Kinh tế - Kỹ thuật Công Thương
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
-            Diploma of Degree
+            Kế toán doanh nghiệp
           </h4>
           <p>
             Technology Of Yogyakarta University - D3 System Information /
