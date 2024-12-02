@@ -18,15 +18,15 @@ const About = ({ location }) => {
           className="col-sm-12 col-md-8 col-lg-10 order-2 order-sm-1 order-md-1 order-lg-1 spacer-0-sm"
         >
           <p className="about-intro">
-            Rất vui được gặp bạn ở đây! Tôi là Sơn Tùng, sống ở Hà Nội
+            Rất vui được gặp bạn ở đây! Mình là Sơn Tùng, sống ở Hà Nội
             đang làm việc tại <a href="https://www.thestartup.vn">Công ty Cổ phần tập đoàn The Startup.</a>
-            <br />Tôi phụ trách <b>Xây dựng phát triển đội ngũ nhân lực kinh doanh</b>, Tham gia
+            <br />Hiện mình phụ trách <b>Xây dựng phát triển đội ngũ nhân lực kinh doanh</b>, tham gia
             thiết lập hệ thống xây dựng kế hoạch kinh doanh về {" "}
             <b>Đào tạo nguồn nhân lực</b> (Khai thác phần tích dữ liệu Big data, <a href="http://www.idolacademy.vn">xây dựng nhân hiệu</a>, <a href="https://www.ivip.vn/">nghành nghề  thực chiến kinh doanh truyền thống...</a>);
             <b>Thẩm mỹ viện</b> (Phẫu thuật thẩm mỹ, Chăm sóc sức khỏe - sắc đẹp chủ động, thực phẩm bổ dưỡng...);
             <b>Hỗ trợ tài chính</b> (<a href="https://zalo.me/0915467890">Tư vấn các khoản vay tài chính từ 5-100 tỷ</a>);
             <b>Chuỗi siêu thị thực phẩm</b> (Nông sản, đặc sản, ứng dụng mua sắm thực phẩm hàng ngày...).<br />
-             Và cũng có một số kinh nghiệm về{" "} <b>lãnh đạo quản lý đội nhóm</b>.
+             Và cũng có một số kinh nghiệm về{" "} <b>lãnh đạo quản lý đội nhóm kinh doanh</b>.
           </p>
           <Link href="/personalities">Tìm hiểu thêm</Link>
         </BlockElement>
