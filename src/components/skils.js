@@ -37,6 +37,7 @@ import StyledComponentIcon from "../assets/icons/skils/styled-component.svg"
 import GoogleAnalyticsIcon from "../assets/icons/skils/google-analytics.svg"
 import GoogleTagIcon from "../assets/icons/skils/google-tag.svg"
 import NetlifyIcon from "../assets/icons/skils/netlify.svg"
+import QLNNIcon from "../assets/icons/skils/cvqlnn.png"
 
 const Skills = () => {
   return (
@@ -50,13 +51,7 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
-              <a href="http://www.thestatup.vn">
-                <img
-                  src={HtmlIcon}
-                  alt="icon"
-                  className="skill-img img-fluid"
-                />
-               </a> 
+               <a href="http://www.thestatup.vn"><img src={HtmlIcon} alt="icon" className="skill-img img-fluid"/></a> 
               </BlockElement>
             </div>
             <div className="col col-md-3 col-lg-3 mt-5">
@@ -64,7 +59,7 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
-                <img src={CssIcon} alt="icon" className="skill-img img-fluid" />
+               <a href="http://www.thestatup.vn"><img src={QLNNIcon} alt="icon" className="skill-img img-fluid" /></a>
               </BlockElement>
             </div>
             <div className="col col-md-3 col-lg-3 mt-5">
@@ -72,7 +67,7 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
-                <img src={JsIcon} alt="icon" className="skill-img img-fluid" />
+               <a href="http://www.thestatup.vn"><img src={JsIcon} alt="icon" className="skill-img img-fluid" /></a> 
               </BlockElement>
             </div>
             <div className="col col-md-3 col-lg-3 mt-5">
