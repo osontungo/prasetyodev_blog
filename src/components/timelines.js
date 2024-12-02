@@ -9,20 +9,19 @@ import BlockElement from "../components/blockElement"
 const Timelines = () => {
   return (
     <Fragment>
-      <h4>Experience</h4>
+      <h4>Kinh Nghiệm</h4>
       <BlockElement
         className="p-5 mb-5 mt-5 experience-content"
         component="span"
       >
         <blockquote className="m-5 content-blockqote">
           <p className="text-center">
-            "<b>Experience is a fundamental aspect of human life </b>that
-            involves learning and personal growth through direct interaction
-            with the world. It is a subjective and multifaceted phenomenon,
-            shaped by individual perspectives, emotions, and the cultural and
-            social context in which it occurs. Experience has a significant
-            impact on a person's knowledge, skills and understanding of the
-            world as a whole."
+            "<b>inh nghiệm là một khía cạnh cơ bản của cuộc sống con người </b>liên 
+            quan đến việc học tập và phát triển cá nhân thông qua tương tác trực tiếp với 
+            thế giới. Đây là một hiện tượng chủ quan và đa diện, được hình thành bởi 
+            quan điểm, cảm xúc của từng cá nhân và bối cảnh văn hóa và xã hội mà nó 
+            diễn ra. Kinh nghiệm có tác động đáng kể đến kiến ​​thức, kỹ năng và sự 
+            hiểu biết của một người về thế giới nói chung."
           </p>
         </blockquote>
       </BlockElement>
@@ -35,11 +34,13 @@ const Timelines = () => {
           iconStyle={{ background: "rgb(008 110 030)", color: "#fff" }}
         >
           <h3 className="vertical-timeline-element-title">
-            PT Wide Technology Indonesia
+            Công ty cổ phần tập đoàn The Startup
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">Software Engineer ( Sr. Frontend Developer )</h4>
+          <h4 className="vertical-timeline-element-subtitle">Quản lý kinh doanh - nhân sự - đối ngoại</h4>
           <p>
-            Micro Frontend / Micro UI · REST APIs · Microservices · Angular · React Tailwind · CSS
+          Bất động sản ( Sàn giao dịch BĐS, Mua bán sát nhập… ) · Thẩm mỹ viện ( các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm
+            sóc sức khoẻ và làm đẹp chủ động ) · dịch vụ tư vấn luật ( Xử lý tranh chấp dân sự và hình sự ) · Tài chính ( Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )
+             · Đào tạo nghề ( Dạy nghề chất lượng cao ) · Bán lẻ ( Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị ) · Công nghệ ( Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
