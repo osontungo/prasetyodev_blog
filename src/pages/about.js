@@ -18,12 +18,13 @@ const About = ({ location }) => {
           className="col-sm-12 col-md-8 col-lg-10 order-2 order-sm-1 order-md-1 order-lg-1 spacer-0-sm"
         >
           <p className="about-intro">
-             Rất vui được gặp bạn ở đây!  mình là Sơn Tùng, người đam mê khám phá các chủ đề về kinh doanh, phát triển bản thân và đọc sách.
+             Rất vui được gặp bạn ở đây!  mình là Sơn Tùng, người yêu thích kinh doanh, học tập phát triển bản thân và đọc sách.
              Mình tin rằng mỗi người đều có thể phát triển và vươn tới mục tiêu của mình bằng cách học hỏi và thay đổi tích cực. 
              Hy vọng có thể chia sẻ những kiến thức và quan điểm này với mọi người, cùng nhau học hỏi và phát triển! <br />
             Hiện tại mình đang làm việc tại <a href="https://www.thestartup.vn">Công ty Cổ phần tập đoàn The Startup.</a>
-            Mình phụ trách về tuyển dụng Xây dựng phát triển đội ngũ nhân lực kinh doanh, xây dựng kế hoạch, thiết lập 
-            hệ thống và lãnh đạo quản lý đội nhóm kinh doanh. Rất vui nếu có thể kết nối hỗ trợ mọi người cùng nhau phát triển trong công việc!
+            Mình phụ trách về tuyển dụng phát triển đội ngũ nhân lực kinh doanh, xây dựng kế hoạch, thiết lập 
+            hệ thống và lãnh đạo quản lý đội nhóm kinh doanh. Rất vui nếu có thể kết nối với mọi người cùng nhau phát triển 
+            trong công việc và cuộc sống!
           </p>
           <Link href="/personalities">Tìm hiểu thêm</Link>
         </BlockElement>
