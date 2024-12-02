@@ -6,7 +6,7 @@ import "@react-pdf-viewer/core/lib/styles/index.css"
 import "@react-pdf-viewer/default-layout/lib/styles/index.css"
 import BlockElement from "../components/blockElement"
 
-const Chungchiqlnn = () => {
+const Chungchiql = () => {
   const defaultLayoutPluginInstance = defaultLayoutPlugin()
 
   const data = useStaticQuery(graphql`
@@ -46,4 +46,4 @@ const Chungchiqlnn = () => {
   )
 }
 
-export default Chungchiqlnn
+export default Chungchiql
