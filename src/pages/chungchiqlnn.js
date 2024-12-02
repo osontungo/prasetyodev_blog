@@ -1,7 +1,7 @@
 import React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import qlnn from "../components/qlnn"
+import MyPersonality from "../components/qlnn"
 import PropTypes from "prop-types"
 
 const Personalities = ({ location }) => {
