@@ -65,7 +65,7 @@ const Navbar = props => {
             </li>
             <li className="nav-item">
               <Link className="nav-link" activeClassName="active" to="/blog">
-                Nhật ký chia sẻ
+                Bài viết chia sẻ
               </Link>
             </li>
             {data.allFile.edges.map((file, index) => {
