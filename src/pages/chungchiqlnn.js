@@ -17,4 +17,4 @@ Personalities.propTypes = {
   location: PropTypes.object,
 }
 
-export default Chungchiqlnn
+export default Chungchiql
