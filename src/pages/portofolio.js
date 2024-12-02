@@ -60,18 +60,7 @@ const Portofolio = ({ location }) => {
           </Slider>
           <Cards
             title="Venus - Thẩm mỹ viện, chăm sóc sức khỏe chủ động"
-            descriptions="Bạn có biết? Sức khỏe không chỉ là không bệnh tật, mà còn là sự tươi trẻ, tràn đầy năng lượng từ bên trong! Gói chăm sóc sức khỏe & sắc đẹp chủ động sẽ mang đến cho bạn trải nghiệm toàn diện, giúp bạn sống khỏe, đẹp mỗi ngày mà không phải lo lắng!
-
-🔎 Xét Nghiệm Chuyên Sâu: Định kỳ kiểm tra các chỉ số sức khỏe quan trọng để hiểu rõ về cơ thể bạn. Không cần chờ đến khi bệnh tật xuất hiện mới quan tâm!
-
-👨‍⚕️ Tư Vấn Từ Bác Sỹ Chuyên Khoa: Được tư vấn bởi bác sỹ hàng đầu, cá nhân hóa phác đồ chăm sóc phù hợp với thể trạng và nhu cầu của bạn.
-
-🍃 Cung Cấp Thực Phẩm Chức Năng Định Kỳ: Mỗi tháng, chúng tôi sẽ cung cấp các loại thực phẩm chức năng chất lượng cao, được lựa chọn kỹ lưỡng để hỗ trợ sức khỏe và sắc đẹp từ bên trong.
-
-💧 Truyền Dưỡng Chất Làm Đẹp & Chống Lão Hóa:
-
-Dưỡng chất chuyên biệt giúp tái tạo da, làm mờ nếp nhăn, tăng độ đàn hồi và mang lại làn da rạng rỡ.
-Chống lão hóa tối ưu với liệu trình truyền dưỡng chất trực tiếp, bổ sung vitamin, khoáng chất và các thành phần dưỡng da cần thiết, giúp giữ gìn tuổi thanh xuân và chống lại dấu hiệu lão hóa từ bên trong.."
+            descriptions="Bạn có biết? Sức khỏe không chỉ là không bệnh tật, mà còn là sự tươi trẻ, tràn đầy năng lượng từ bên trong! Gói chăm sóc sức khỏe & sắc đẹp chủ động sẽ mang đến cho bạn trải nghiệm toàn diện, giúp bạn sống khỏe, đẹp mỗi ngày mà không phải lo lắng!"
             tags="Sức khỏe - Làm đẹp"
           ></Cards>
         </div>
