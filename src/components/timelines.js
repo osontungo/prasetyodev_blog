@@ -59,10 +59,8 @@ const Timelines = () => {
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Công chức Tài chính kế toán</h4>
           <p>
-            Team Leadership · Communication · Problem Solving · Cross-browser
-            Compatibility · Analytical Skills · TypeScript · PrimeNG · Vuetify ·
-            Nuxt.js · CSS Prepocessor · REST APIs · Microservices · Vue ·
-            AngularJS
+          Xây dựng dự toán thu, chi ngân sách · Triển khai các biện pháp khai thác nguồn thu trên địa bàn · Thực hiện dự toán chi ngân sách · Báo cáo tài chính, Quyết toán ngân sách · Quản lý tài sản công · 
+          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng 
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -78,9 +76,8 @@ const Timelines = () => {
             Công chức Tài chính kế toán
           </h4>
           <p>
-            Problem Solving · Cross-browser Compatibility · Analytical Skills ·
-            TypeScript · PrimeNG · Vuetify · Nuxt.js · CSS Prepocessor · REST
-            APIs · Microservices · Vue · AngularJS
+          Xây dựng dự toán thu, chi ngân sách · Triển khai các biện pháp khai thác nguồn thu trên địa bàn · Thực hiện dự toán chi ngân sách · Báo cáo tài chính, Quyết toán ngân sách · Quản lý tài sản công · 
+          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -96,8 +93,8 @@ const Timelines = () => {
             Công chức Tài chính kế toán
           </h4>
           <p>
-            Redux.js · REST APIs · SCSS · Progressive Web Applications (PWAs) ·
-            React.js · CodeIgniter · MySQL · PHP · JavaScript · JSS
+          Xây dựng dự toán thu, chi ngân sách · Triển khai các biện pháp khai thác nguồn thu trên địa bàn · Thực hiện dự toán chi ngân sách · Báo cáo tài chính, Quyết toán ngân sách · Quản lý tài sản công · 
+          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
