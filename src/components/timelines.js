@@ -60,7 +60,7 @@ const Timelines = () => {
           <h4 className="vertical-timeline-element-subtitle">Công chức Tài chính kế toán</h4>
           <p>
           Xây dựng dự toán thu, chi ngân sách · Triển khai các biện pháp khai thác nguồn thu trên địa bàn · Thực hiện dự toán chi ngân sách · Báo cáo tài chính, Quyết toán ngân sách · Quản lý tài sản công · 
-          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng 
+          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng · Kê khai quyết toán thuế, BHXH, chế độ lương, thưởng, phụ cấp
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -77,7 +77,7 @@ const Timelines = () => {
           </h4>
           <p>
           Xây dựng dự toán thu, chi ngân sách · Triển khai các biện pháp khai thác nguồn thu trên địa bàn · Thực hiện dự toán chi ngân sách · Báo cáo tài chính, Quyết toán ngân sách · Quản lý tài sản công · 
-          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng
+          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng · Kê khai quyết toán thuế, BHXH, chế độ lương, thưởng, phụ cấp
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
@@ -94,7 +94,7 @@ const Timelines = () => {
           </h4>
           <p>
           Xây dựng dự toán thu, chi ngân sách · Triển khai các biện pháp khai thác nguồn thu trên địa bàn · Thực hiện dự toán chi ngân sách · Báo cáo tài chính, Quyết toán ngân sách · Quản lý tài sản công · 
-          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng
+          Quản lý các dự án đầu tư xây dựng · Quản lý quỹ công chuyên dùng · Kê khai quyết toán thuế, BHXH, chế độ lương, thưởng, phụ cấp
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
