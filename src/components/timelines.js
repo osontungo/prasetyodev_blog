@@ -37,31 +37,16 @@ const Timelines = () => {
           Công ty cổ phần tập đoàn The Startup
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Quản lý nhân sự - kinh doanh - đối ngoại</h4>
-          <p>
-          Bất động sản <i>(Sàn giao dịch BĐS, Mua bán sát nhập… )</i><br />
-          Thẩm mỹ viện <i>(các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm sóc sức khoẻ và làm đẹp chủ động )</i><br />
-          Dịch vụ tư vấn luật <i>(Xử lý tranh chấp dân sự và hình sự )</i><br />
-          Tài chính <i>(Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )</i><br />
-          Đào tạo nghề <i>(Dạy nghề chất lượng cao )</i><br />
+          <p>          
+          Thẩm mỹ viện <i>(<a href="https://www.venusbeautyparadise.com">Dịch vụ thẩm mỹ</a>, Thực phẩm chức năng, Gói chăm sóc sức khoẻ và làm đẹp chủ động )</i><br />
+          Đào tạo nghề <i>(<a href="https://www.idolacademy.vn">Xây dựng nhân hiệu</a>, <a href="https://www.ivip.vn">Dạy nghề F&B</a>, <a href="https://www.bigdata-ai.vn">Phân tích dữ liệu Big Data</a>)</i><br />
           Bán lẻ <i>(Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị )</i><br />
+          Tài chính <i>(<a href="https://zalo.me/0915467890">Tư vấn các khoản vay tài chính từ 5-100 tỷ</a>)</i><br />
+          Bất động sản <i>(Sàn giao dịch BĐS, Mua bán sát nhập… )</i><br />
+          Dịch vụ tư vấn luật <i>(Xử lý tranh chấp dân sự và hình sự )</i><br />
           Công nghệ <i>(Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )</i>
           </p>
-        </VerticalTimelineElement>
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          contentStyle={{ background: "#f7f7f7", color: "#000" }}
-          contentArrowStyle={{ borderRight: "7px solid  #f7f7f7" }}
-          date="2024 - Đến nay"
-          iconStyle={{ background: "rgb(008 110 030)", color: "#fff" }}
-        >
-          <h3 className="vertical-timeline-element-title">
-          Công Ty Cổ Phần Tập Đoàn Venus Beauty Paradise
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">Quản lý nhân sự - kinh doanh - đối ngoại</h4>
-          <p>
-          Dịch vụ thẩm mỹ · Thực phẩm chức năng · Gói chăm sóc sức khoẻ và làm đẹp chủ động 
-          </p>
-        </VerticalTimelineElement>
+        </VerticalTimelineElement>        
         <VerticalTimelineElement
           className="vertical-timeline-element--work"
           contentStyle={{ background: "#f7f7f7", color: "#000" }}
