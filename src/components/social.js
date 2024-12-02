@@ -34,6 +34,12 @@ const Social = () => {
         href="https://mydesospace.com/u/lesontung"
         style={{ height: 50, width: 50 }}
       />
+      <SocialIcon
+        network="zalo"
+        target="_blank"
+        href="https://zalo.me/0915467890"
+        style={{ height: 50, width: 50 }}
+      />
     </div>
   )
 }
