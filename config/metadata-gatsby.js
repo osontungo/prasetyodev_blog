@@ -21,7 +21,8 @@ module.exports = {
       },
       social: {
         facebook: "",
-        linkedin: "in/dimas-prasetyo",
+        linkedin: "in/lesontung",
+        focus:"lesontung",
       },
     },
   },
