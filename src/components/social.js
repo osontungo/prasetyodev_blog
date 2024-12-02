@@ -40,7 +40,7 @@ const Social = () => {
         href="https://zalo.me/0915467890"
         style={{ height: 50, width: 50 }}    
       />
-      <img src="../images/zalo_icon.png" alt="icon" className="skill-img img-fluid" />
+      <img src="../images/profile-pic.png" alt="icon" className="skill-img img-fluid" />
       <SocialIcon
         network="tiktok"
         target="_blank"
