@@ -35,9 +35,15 @@ const Social = () => {
         style={{ height: 50, width: 50 }}
       />
       <SocialIcon
-        network="zalo"
+        network="line"
         target="_blank"
         href="https://zalo.me/0915467890"
+        style={{ height: 50, width: 50 }}
+      />
+      <SocialIcon
+        network="tiktok"
+        target="_blank"
+        href="https://www.tiktok.com/@tungthestartup"
         style={{ height: 50, width: 50 }}
       />
     </div>
