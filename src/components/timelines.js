@@ -38,9 +38,13 @@ const Timelines = () => {
           </h3>
           <h4 className="vertical-timeline-element-subtitle">Quản lý kinh doanh - nhân sự - đối ngoại</h4>
           <p>
-          Bất động sản ( Sàn giao dịch BĐS, Mua bán sát nhập… ) · Thẩm mỹ viện ( các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm
-            sóc sức khoẻ và làm đẹp chủ động ) · dịch vụ tư vấn luật ( Xử lý tranh chấp dân sự và hình sự ) · Tài chính ( Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )
-             · Đào tạo nghề ( Dạy nghề chất lượng cao ) · Bán lẻ ( Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị ) · Công nghệ ( Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )
+          Bất động sản ( Sàn giao dịch BĐS, Mua bán sát nhập… )<br />
+          Thẩm mỹ viện ( các dịch vụ thẩm mỹ, bán thực phẩm chức năng, bán các gói chăm sóc sức khoẻ và làm đẹp chủ động ) <br />
+          Dịch vụ tư vấn luật ( Xử lý tranh chấp dân sự và hình sự )<br />
+          Tài chính ( Tư vấn hỗ trợ cho các khoản vay từ 5 - 500 tỷ )<br />
+          Đào tạo nghề ( Dạy nghề chất lượng cao )<br />
+          Bán lẻ ( Phân phối nông sản, đặc sản Việt Nam, chuỗi siêu thị )<br />
+          Công nghệ ( Nghiên cứu thị trường, công nghệ Big data, Quảng cáo )
           </p>
         </VerticalTimelineElement>
         <VerticalTimelineElement
