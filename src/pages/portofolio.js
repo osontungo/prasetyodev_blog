@@ -58,7 +58,7 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Venus - Thẩm mỹ viện, chăm sóc sức khỏe chủ động"
+            title="Venus - Chăm sóc sức khỏe sắc đẹp chủ động"
             descriptions="Bạn có biết? Sức khỏe không chỉ là không bệnh tật, mà còn là sự tươi trẻ, tràn đầy năng lượng từ bên trong! Gói chăm sóc sức khỏe & sắc đẹp chủ động sẽ mang đến cho bạn trải nghiệm toàn diện, giúp bạn sống khỏe, đẹp mỗi ngày mà không phải lo lắng!"
             tags="Sức khỏe - Làm đẹp"
             cta="https://www.venusbeautyparadise.com/"
