@@ -35,7 +35,7 @@ const Social = () => {
         style={{ height: 50, width: 50 }}
       />
       <SocialIcon
-        network="line"
+        network="vevo"
         target="_blank"
         href="https://zalo.me/0915467890"
         style={{ height: 50, width: 50 }}
