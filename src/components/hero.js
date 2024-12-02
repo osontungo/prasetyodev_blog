@@ -36,8 +36,8 @@ const Hero = () => {
           một ý nghĩa sâu xa. Mỗi con người ta gặp, mỗi câu chuyện ta trải qua – dù ngọt ngào hay đắng cay – đều là những mảnh ghép 
           không thể thiếu, định hình nên con người ta hôm nay. Những cuộc gặp gỡ ấy, những khoảnh khắc ấy, chính là lời nhắc nhở 
           tinh tế từ cuộc sống rằng <b>mọi thứ đều diễn ra đúng thời điểm, đúng người, và vì một lý do nào đó</b>.<br></br> 🌟Ghi lại, trân trọng 
-          những điều quý giá ấy không chỉ là lưu giữ kỷ niệm, mà còn là lòng biết ơn với chính 
-          hành trình này, đã mang đến cơ hội để ta học, để ta yêu, và để ta sống một cuộc đời trọn vẹn hơn từng ngày.🌟
+          những điều quý giá ấy <b>không chỉ là lưu giữ kỷ niệm, mà còn là lòng biết ơn với chính 
+          hành trình này</b>, đã mang đến cơ hội để ta học, để ta yêu, và để ta sống một cuộc đời trọn vẹn hơn từng ngày.🌟
           </p>
           <Social />
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
