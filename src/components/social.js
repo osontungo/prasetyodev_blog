@@ -8,31 +8,31 @@ const Social = () => {
         network="facebook"
         target="_blank"
         href="https://facebook.com/lesontungxyz"
-        style={{ height: 30, width: 30, marginRight: 6 }}
+        style={{ height: 50, width: 50, marginRight: 6 }}
       />
       <SocialIcon
         network="youtube"
         target="_blank"
         href="https://www.youtube.com/@sontungxyz"
-        style={{ height: 30, width: 30, marginRight: 6 }}
+        style={{ height: 50, width: 50, marginRight: 6 }}
       />
       <SocialIcon
         network="x"
         target="_blank"
         href="https://x.com/sontungxyz"
-        style={{ height: 30, width: 30, marginRight: 6 }}
+        style={{ height: 50, width: 50, marginRight: 6 }}
       />
       <SocialIcon
         network="instagram"
         target="_blank"
         href="https://www.instagram.com/tungthestartup"
-        style={{ height: 30, width: 30, marginRight: 6 }}
+        style={{ height: 50, width: 50, marginRight: 6 }}
       />
       <SocialIcon
         network="tumblr"
         target="_blank"
         href="https://mydesospace.com/u/lesontung"
-        style={{ height: 30, width: 30 }}
+        style={{ height: 50, width: 50 }}
       />
     </div>
   )
