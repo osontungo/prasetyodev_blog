@@ -13,7 +13,7 @@ const Social = () => {
       <SocialIcon
         network="youtube"
         target="_blank"
-        href="https://www.youtube.com/sontungxyz"
+        href="https://www.youtube.com/@sontungxyz"
         style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
