@@ -29,7 +29,11 @@ const MyPersonality = () => {
           <b>Https://SơnTùng.Xyz</b> - Nhân hiệu là sự lặp đi lặp lại một cách kiên định những thông điệp và giá trị 
           mà mình đã đặt ra, là sự phấn đấu kiên cường để bảo vệ những điều tốt đẹp mà mình đang đại diện.  
           không phải là một công việc, không có ngày nghỉ phép, không có thủ thuật mỳ ăn liền. Nó là quá trình 
-          rèn luyện để sống đúng, sống thật với chính bản thân mình.
+          rèn luyện để sống đúng, sống thật với chính bản thân mình. <br/>
+          THE STARTUP không chỉ là một công ty – chúng tôi là bệ phóng cho những ước mơ lớn, là ngôi nhà của 
+          những tâm hồn táo bạo và khát vọng mãnh liệt. Chúng tôi khao khát tạo nên một tương lai nơi sáng tạo 
+          không có giới hạn, và nơi mỗi người đều có thể trở thành người kiến tạo sự thay đổi mà họ mong muốn.
+
         </p>
       </div>
       <div className="col-sm-12 col-md-6 col-lg-6">
