@@ -103,6 +103,21 @@ const Portofolio = ({ location }) => {
           ></Cards>
         </div>
         <div className="col">
+          <StaticImage
+            src="../images/my-porto/uiii/digital-library-uiii.png"
+            alt="sabi-landing-page"
+            width={500}
+            height={330}
+            quality={95}
+          />
+          <Cards
+            title="Hỗ trợ vay tài chính"
+            descriptions="Tư vấn các khoản vay tài chính dưới 100 tỷ, Bao nợ xấu, hỗ trợ tối đa hạn mức khoản vay với lãi xuất thấp từ 7-8%/năm"
+            tags="Tài chính - Khoản vay"
+            cta="https://zalo.me/0915467890"
+          ></Cards>
+        </div>        
+        <div className="col">
           <Slider {...settings}>
             <StaticImage
               src="../images/my-porto/pricebook/mitra-login-one.png"
@@ -164,21 +179,6 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             descriptions="Chợ nông sản online là nền tảng trực tuyến kết nối người bán và người mua nông sản. Tại đây, các sản phẩm như rau, củ, quả, thịt, cá, và thực phẩm chế biến được giao dịch dễ dàng, thường qua ứng dụng hoặc website. Chợ này giúp giảm trung gian, đảm bảo giá cả minh bạch và thuận tiện trong mua sắm, đặc biệt với sản phẩm sạch, hữu cơ."
             tags="Siêu thị- Thực phẩm"
             cta="https://www.nongssan.asia"
-          ></Cards>
-        </div>
-        <div className="col">
-          <StaticImage
-            src="../images/my-porto/uiii/digital-library-uiii.png"
-            alt="sabi-landing-page"
-            width={500}
-            height={330}
-            quality={95}
-          />
-          <Cards
-            title="Hỗ trợ vay tài chính"
-            descriptions="Tư vấn các khoản vay tài chính dưới 100 tỷ, Bao nợ xấu, hỗ trợ tối đa hạn mức khoản vay với lãi xuất thấp từ 7-8%/năm"
-            tags="Tài chính - Khoản vay"
-            cta="https://zalo.me/0915467890"
           ></Cards>
         </div>        
         <div className="col">
