@@ -176,7 +176,7 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
           />
           <Cards
             title="Hỗ trợ vay tài chính"
-            descriptions="Tư vấn các khoản vay tài chính từ 5-100 tỷ"
+            descriptions="Tư vấn các khoản vay tài chính dưới 100 tỷ, Bao nợ xấu, hỗ trợ tối đa hạn mức khoản vay với lãi xuất thấp từ 7-8%/năm"
             tags="Tài chính - Khoản vay"
             cta="https://zalo.me/0915467890"
           ></Cards>
