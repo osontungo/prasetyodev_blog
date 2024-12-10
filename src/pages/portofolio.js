@@ -58,7 +58,7 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Venus - Chăm sóc sức khỏe sắc đẹp"
+            title="Dịch vụ thẩm mỹ, chăm sóc sức khỏe"
             descriptions="Bạn có biết? Sức khỏe không chỉ là không bệnh tật, mà còn là sự tươi trẻ, tràn đầy năng lượng từ bên trong! Gói chăm sóc sức khỏe & sắc đẹp chủ động sẽ mang đến cho bạn trải nghiệm toàn diện, giúp bạn sống khỏe, đẹp mỗi ngày mà không phải lo lắng!"
             tags="Sức khỏe - Làm đẹp"
             cta="https://www.venusbeautyparadise.com/"
@@ -96,7 +96,7 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Xây dựng thương hiệu cá nhân"
+            title="Đào tạo Xây dựng thương hiệu cá nhân"
             descriptions="Để xây dựng nhân hiệu hiệu quả, bạn cần tuân theo những quy trình cơ bản nhằm tạo dựng một hình ảnh cá nhân chuyên nghiệp & đáng tin cậy"
             tags="Đào tạo, Thương hiệu"
             cta="https://www.idolacademy.vn"
@@ -142,7 +142,7 @@ const Portofolio = ({ location }) => {
             quality={95}
           />
           <Cards
-            title="Khai thác dữ liệu Big Data"
+            title="Đài tạo công nghệ dữ liệu Big Data"
             descriptions="ĐÂY LÀ MỘT CHƯƠNG TRÌNH ĐÀO TẠO GIA TỐC, ĐÃ ĐƯỢC NGHIÊN CỨU KĨ LƯỠNG VỚI ỨNG DỤNG CAO, MANG LẠI HIỆU QUẢ TỨC THÌ ĐỐI VỚI MỌI LĨNH VỰC KINH DOANH, HỌC 1 TUẦN, THU NHẬP TRÊN 1000$/THÁNG
 KHÔNG YÊU CẦU CÓ KIẾN THỨC, KINH NGHIỆM VỀ CÔNG NGHỆ THÔNG TIN, DẠY MỚI TỪ ĐẦU
 ỨNG DỤNG CÁC CÔNG NGHỆ TỐI TÂN NHẤT ĐANG ĐƯỢC CÁC CHUYÊN GIA HÀNG ĐẦU TIN DÙNG
@@ -168,6 +168,21 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
         </div>
         <div className="col">
           <StaticImage
+            src="../images/my-porto/uiii/digital-library-uiii.png"
+            alt="sabi-landing-page"
+            width={500}
+            height={330}
+            quality={95}
+          />
+          <Cards
+            title="Hỗ trợ vay tài chính"
+            descriptions="Tư vấn các khoản vay tài chính từ 5-100 tỷ"
+            tags="Tài chính - Khoản vay"
+            cta="https://zalo.me/0915467890"
+          ></Cards>
+        </div>        
+        <div className="col">
+          <StaticImage
             src="../images/my-porto/sabi/sabi-landing-1.png"
             alt="sabi-landing-page"
             width={500}
@@ -181,21 +196,7 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             cta="https://kingbrokeracademy.com/"
           ></Cards>
         </div>
-        <div className="col">
-          <StaticImage
-            src="../images/my-porto/uiii/digital-library-uiii.png"
-            alt="sabi-landing-page"
-            width={500}
-            height={330}
-            quality={95}
-          />
-          <Cards
-            title="Hỗ trợ vay tài chính"
-            descriptions="Tư vấn các khoản vay tài chính từ 5-100 tỷ"
-            tags="Tài chính - Khoản vay"
-            cta="https://zalo.me/0915467890"
-          ></Cards>
-        </div>
+
       </div>
     </Layout>
   )
