@@ -33,8 +33,8 @@ export const pageQuery = graphql`
   const posts = data.allMarkdownRemark.nodes
 
   return (
-    <Layout location={location} title={`Bài viết & Chia sẻ`}>
-      <Seo title="Bài viết & Chia sẻ" />
+    <Layout location={location} title={`Blog`}>
+      <Seo title="Blog" />
       <BlockElement className="blog-wrapper" component="div">
         <ol style={{ listStyle: `none` }}>
           {posts.map(post => {

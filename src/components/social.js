@@ -5,52 +5,28 @@ const Social = () => {
   return (
     <div className="d-flex justify-content-start mb-3">
       <SocialIcon
-        network="facebook"
+        network="github"
         target="_blank"
-        href="https://facebook.com/lesontungxyz"
-        style={{ height: 50, width: 50, marginRight: 6 }}
+        href="https://github.com/prasetyodimas"
+        style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
-        network="youtube"
+        network="linkedin"
         target="_blank"
-        href="https://www.youtube.com/@sontungxyz"
-        style={{ height: 50, width: 50, marginRight: 6 }}
-      />
-      <SocialIcon
-        network="x"
-        target="_blank"
-        href="https://x.com/sontungxyz"
-        style={{ height: 50, width: 50, marginRight: 6 }}
+        href="https://www.linkedin.com/in/dimas-prasetyo"
+        style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
         network="instagram"
         target="_blank"
-        href="https://www.instagram.com/tungthestartup"
-        style={{ height: 50, width: 50, marginRight: 6 }}
+        href="https://www.instagram.com/dimas_prsetyo"
+        style={{ height: 30, width: 30, marginRight: 6 }}
       />
       <SocialIcon
-        network="tumblr"
+        network="stackoverflow"
         target="_blank"
-        href="https://mydesospace.com/u/lesontung"
-        style={{ height: 50, width: 50 }}
-      />
-      <SocialIcon
-        network="whatsapp"
-        target="_blank"
-        href="https://zalo.me/0915467890"
-        style={{ height: 50, width: 50 }}    
-      />
-      <SocialIcon
-        network="tiktok"
-        target="_blank"
-        href="https://www.tiktok.com/@tungthestartup"
-        style={{ height: 50, width: 50 }}
-      />
-            <SocialIcon
-        network="telegram"
-        target="_blank"
-        href="https://www.t.me/osontungo"
-        style={{ height: 50, width: 50 }}
+        href="https://stackoverflow.com/users/4939125/dimas-prasetyo"
+        style={{ height: 30, width: 30 }}
       />
     </div>
   )

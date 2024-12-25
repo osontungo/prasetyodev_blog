@@ -3,7 +3,7 @@
     <img src="src/images/logo/dp.png" alt="Logo" width="auto" height="80">
   </a>
 
-  <h3 align="center">Sơn tùng </h3>
+  <h3 align="center">Dimas Prasetyo </h3>
 
   <p align="center">
     Welcome to prasetyodev a professional site portofolio & blog

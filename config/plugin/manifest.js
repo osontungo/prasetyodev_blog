@@ -3,8 +3,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Sơn Tùng XYZ`,
-        short_name: `Sơn Tùng`,
+        name: `Dimas Prasetyo`,
+        short_name: `prasetyodev`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

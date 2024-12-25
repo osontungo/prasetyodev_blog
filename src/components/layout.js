@@ -17,13 +17,13 @@ const Layout = ({ location, title, children }) => {
               .typeString(`{${title}}`)
               .pauseFor(1000)
               .deleteAll()
-              .typeString(`{ Sơn Tùng }`)
+              .typeString(`{ Dimas Prasetyo }`)
               .pauseFor(1000)
               .deleteAll()
-              .typeString("Chào mừng bạn :)")
+              .typeString("Welcome cheers :)")
               .pauseFor(2000)
               .deleteAll()
-              .typeString(`{Https://SơnTùng.Xyz}`)
+              .typeString(`{ Dimas Prasetyo }`)
               .start()
           }}
         />

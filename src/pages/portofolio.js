@@ -19,16 +19,17 @@ const Portofolio = ({ location }) => {
   }
 
   return (
-    <Layout location={location} title={"Công việc & Dự án"}>
-      <Seo title="Công việc & Dự án" />
+    <Layout location={location} title={"Portofolio"}>
+      <Seo title="Portofolio" />
       <div className="row content-of-porto py-lg-5">
         <div className="col-lg-9 col-md-10 mx-auto">
-          <h2 className="heading-porto font-weight font-bold">Công việc & dự án thực hiện</h2>
+          <h2 className="heading-porto font-weight font-bold">My Portofolio</h2>
           <p className="lead text-body-secondary">
-          Xu hướng kinh doanh hiện nay tập trung vào các lĩnh vực bền vững và ứng dụng công nghệ. 
-          Chăm sóc sức khỏe cá nhân hóa, thẩm mỹ công nghệ cao, thực phẩm sạch, đào tạo nghề trực tuyến, 
-          và công nghệ số như AI, blockchain đang dẫn đầu. Nhu cầu tiêu dùng thông minh, tiện lợi và 
-          thân thiện với môi trường thúc đẩy các ngành này phát triển nhanh chóng.
+            In software development or technology projects, portfolio can refer
+            to a collection of projects that are being managed or have been
+            completed by a team or organization. It includes projects such as
+            software development, system implementation, technology integration,
+            and other projects.
           </p>
         </div>
       </div>
@@ -36,21 +37,21 @@ const Portofolio = ({ location }) => {
         <div className="col">
           <Slider {...settings}>
             <StaticImage
-              src="../images/my-porto/venus/kiosk-interface.png"
+              src="../images/my-porto/amtek/kiosk-interface.png"
               alt="amtek-app"
               width={500}
               height={330}
               quality={95}
             />
             <StaticImage
-              src="../images/my-porto/venus/kiosk-menu.png"
+              src="../images/my-porto/amtek/kiosk-menu.png"
               alt="amtek-app"
               width={500}
               height={330}
               quality={95}
             />
             <StaticImage
-              src="../images/my-porto/venus/simrs.png"
+              src="../images/my-porto/amtek/simrs.png"
               alt="amtek-app"
               width={500}
               height={330}
@@ -58,10 +59,9 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Venus - Chăm sóc sức khỏe sắc đẹp"
-            descriptions="Bạn có biết? Sức khỏe không chỉ là không bệnh tật, mà còn là sự tươi trẻ, tràn đầy năng lượng từ bên trong! Gói chăm sóc sức khỏe & sắc đẹp chủ động sẽ mang đến cho bạn trải nghiệm toàn diện, giúp bạn sống khỏe, đẹp mỗi ngày mà không phải lo lắng!"
-            tags="Sức khỏe - Làm đẹp"
-            cta="https://www.venusbeautyparadise.com/"
+            title="AMHES - Amertana Hospital Enterprise Sistem"
+            descriptions="This project is to build a health industry using technology that is used to support hospital needs starting from integration with laboratory machines, integration of BPJS, INACBG and insurance claims reporting, as well as hospital management including inventory management, doctor's fees and others."
+            tags="Web-Application"
           ></Cards>
         </div>
         <div className="col">
@@ -96,10 +96,9 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Xây dựng thương hiệu cá nhân"
-            descriptions="Để xây dựng nhân hiệu hiệu quả, bạn cần tuân theo những quy trình cơ bản nhằm tạo dựng một hình ảnh cá nhân chuyên nghiệp & đáng tin cậy"
-            tags="Đào tạo, Thương hiệu"
-            cta="https://www.idolacademy.vn"
+            title="Marzoom"
+            descriptions="Marzoom is an application that is used to help pricebook users based on the PWA mobile application in searching for information and looking for the cheapest prices as well as being able to find sources of accurate data and high credibility from online and offline (o2o) stores."
+            tags="PWA, Web-Application"
           ></Cards>
         </div>
         <div className="col">
@@ -127,10 +126,9 @@ const Portofolio = ({ location }) => {
             />
           </Slider>
           <Cards
-            title="Đào tạo nghề F&B"
-            descriptions="HỌC PHÍ RẺ HƠN THỊ TRƯỜNG 20-30% THỜI GIAN HỌC NGẮN TRONG 01 THÁNG, DẠY CHẤT LƯỢNG CAO CHỈ 10 HV/LỚP GIẢNG VIÊN SIÊU CẤP LÀ VUA BẾP, TỔNG BẾP TRƯỞNG KS 5 SAO, PHÙ THỦY PHA CHẾ TỐT NGHIỆP CÓ BẰNG GIÁ TRỊ TOÀN QUỐC, XIN VIỆC DỄ DÀNG NẾU MUỐN"
-            tags="Đào tạo, Ngành nghề F&B"
-            cta="https://www.ivip.vn"
+            title="Mitra"
+            descriptions="Pricebook Partner is an application used to help shop partners or partners of our company, with the PWA mobile application used to manage inventory data, sales analysis, user behavior, user visitors and shop branding in selling gadgets."
+            tags="PWA, Web-Application"
           ></Cards>
         </div>
         <div className="col">
@@ -142,13 +140,9 @@ const Portofolio = ({ location }) => {
             quality={95}
           />
           <Cards
-            title="Khai thác dữ liệu Big Data"
-            descriptions="ĐÂY LÀ MỘT CHƯƠNG TRÌNH ĐÀO TẠO GIA TỐC, ĐÃ ĐƯỢC NGHIÊN CỨU KĨ LƯỠNG VỚI ỨNG DỤNG CAO, MANG LẠI HIỆU QUẢ TỨC THÌ ĐỐI VỚI MỌI LĨNH VỰC KINH DOANH, HỌC 1 TUẦN, THU NHẬP TRÊN 1000$/THÁNG
-KHÔNG YÊU CẦU CÓ KIẾN THỨC, KINH NGHIỆM VỀ CÔNG NGHỆ THÔNG TIN, DẠY MỚI TỪ ĐẦU
-ỨNG DỤNG CÁC CÔNG NGHỆ TỐI TÂN NHẤT ĐANG ĐƯỢC CÁC CHUYÊN GIA HÀNG ĐẦU TIN DÙNG
-KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
-            tags="Đào tạo- Big data"
-            cta="https://www.bigdata-ai.vn"
+            title="E-Invoicing"
+            descriptions="The ultimate e-invoicing app tailored to empower MSMEs. With Sabi E-Invoicing, small and medium-sized MSMEs can effortlessly manage and organize their invoicing data, ensuring precision and clarity in their financial records. This invaluable tool not only streamlines your invoicing process but also compiles comprehensive financial histories, making it a breeze for users to request loans and financial services."
+            tags="Web-Application"
           ></Cards>
         </div>
         <div className="col">
@@ -160,10 +154,10 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             quality={95}
           />
           <Cards
-            title="Xuvi Farm"
-            descriptions="Chợ nông sản online là nền tảng trực tuyến kết nối người bán và người mua nông sản. Tại đây, các sản phẩm như rau, củ, quả, thịt, cá, và thực phẩm chế biến được giao dịch dễ dàng, thường qua ứng dụng hoặc website. Chợ này giúp giảm trung gian, đảm bảo giá cả minh bạch và thuận tiện trong mua sắm, đặc biệt với sản phẩm sạch, hữu cơ."
-            tags="Siêu thị- Thực phẩm"
-            cta="https://www.nongssan.asia"
+            title="Sungnikah.(com)"
+            descriptions="Sungnikah is a provider of digital wedding/wedding invitation services such as wedding website design, wedding ceremony design, and souvenir invitation design and brings together clients/users and wedding vendors."
+            tags="Web-Application"
+            cta="https://sungnikah.com"
           ></Cards>
         </div>
         <div className="col">
@@ -175,10 +169,10 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             quality={95}
           />
           <Cards
-            title="King Broker Academy"
-            descriptions="Đào tạo cấp chứng chỉ môi giới bất động sản là khóa học trang bị kiến thức và kỹ năng cần thiết cho nghề môi giới, như pháp lý, quy hoạch, kinh doanh và đàm phán. Hoàn thành khóa học, học viên sẽ tham gia kỳ thi để được cấp chứng chỉ hành nghề, đáp ứng yêu cầu pháp luật và nâng cao uy tín trong lĩnh vực bất động sản."
+            title="Sabi ( LaaS )"
+            descriptions="Sabi are account aggregator solution that provides access to business solutions with integrated financing aimed at micro and small business owners. Sabi operates as a member of the Investree Group, which is under the supervision and licensing of the Financial Services Authority (OJK)."
             tags="Web-Application"
-            cta="https://kingbrokeracademy.com/"
+            cta="https://getsabi.id"
           ></Cards>
         </div>
         <div className="col">
@@ -190,10 +184,10 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
             quality={95}
           />
           <Cards
-            title="Hỗ trợ vay tài chính"
-            descriptions="Tư vấn các khoản vay tài chính từ 5-100 tỷ"
-            tags="Tài chính - Khoản vay"
-            cta="https://zalo.me/0915467890"
+            title="UIII Digital Library Aggregator Systems"
+            descriptions="Digital Library Aggregator System, the purpose of this application can be used in various campus or academic institutions, combining information from the OJS, EPRINTS, SLIMS platforms by making it easy to search for information on one platform which includes information on journal data, dissertations, etc."
+            tags="Web-Application"
+            cta="https://library.uiii.ac.id"
           ></Cards>
         </div>
       </div>

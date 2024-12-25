@@ -22,7 +22,7 @@ const cards = ({ title, descriptions, tags, cta = "" }) => {
                 type="button"
                 className="btn btn-sm btn-outline-secondary"
               >
-                Xem thêm
+                Preview
               </button>
             )}
           </div>

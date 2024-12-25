@@ -45,14 +45,14 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Được viết bởi <strong>{author.name}</strong> {author?.summary || null}
+          Written by <strong>{author.name}</strong> {author?.summary || null}
           {` `}
           <a
-            href={`https://desocialworld.com/u/lesontung`}
+            href={`https://linkedin.com/${social?.linkedin}`}
             target="_blank"
             rel="noreferrer"
           >
-            Bạn có thể theo dõi mình ở đây
+            You should follow them on Linkedin
           </a>
         </p>
       )}

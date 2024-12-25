@@ -46,12 +46,12 @@ const Navbar = props => {
           <ul className="navbar-nav mb-2 mb-lg-0">
             <li className="nav-item">
               <Link className="nav-link" activeClassName="active" to="/">
-                Trang chủ
+                Home
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" activeClassName="active" to="/about">
-                Giới thiệu
+                About
               </Link>
             </li>
             <li className="nav-item">
@@ -60,12 +60,12 @@ const Navbar = props => {
                 activeClassName="active"
                 to="/portofolio"
               >
-                Công việc & Dự án
+                Portofolio
               </Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" activeClassName="active" to="/blog">
-                Bài viết chia sẻ
+                Blog
               </Link>
             </li>
             {data.allFile.edges.map((file, index) => {
@@ -78,7 +78,7 @@ const Navbar = props => {
                     rel="noreferrer"
                     download
                   >
-                    Bản tóm tắt
+                    Resume
                   </a>
                 </li>
               )
