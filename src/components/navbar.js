@@ -58,7 +58,7 @@ const Navbar = props => {
               <Link
                 className="nav-link"
                 activeClassName="active"
-                to="/portofolio"
+                to="/congviecduan"
               >
                 Công việc & Dự án
               </Link>
