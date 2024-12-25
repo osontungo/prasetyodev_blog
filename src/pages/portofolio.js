@@ -6,7 +6,7 @@ import { StaticImage } from "gatsby-plugin-image"
 import PropTypes from "prop-types"
 import Slider from "react-slick"
 
-const Portofolio = ({ location }) => {
+const Duancongviec = ({ location }) => {
   const settings = {
     dots: false,
     autoplay: true,
@@ -202,8 +202,8 @@ KIẾN THỨC ỨNG DỤNG CHO MỌI NGÀNH NGHỀ"
   )
 }
 
-Portofolio.propTypes = {
+Duancongviec.propTypes = {
   location: PropTypes.object,
 }
 
-export default Portofolio
+export default Duancongviec
