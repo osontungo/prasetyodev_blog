@@ -6,12 +6,12 @@ import "@react-pdf-viewer/core/lib/styles/index.css"
 import "@react-pdf-viewer/default-layout/lib/styles/index.css"
 import BlockElement from "../components/blockElement"
 
-const MyPersonality = () => {
+const qlnn = () => {
   const defaultLayoutPluginInstance = defaultLayoutPlugin()
 
   const data = useStaticQuery(graphql`
     {
-      allFile(filter: { name: { eq: "personality" } }) {
+      allFile(filter: { name: { eq: "qlnn" } }) {
         edges {
           node {
             publicURL
@@ -26,14 +26,11 @@ const MyPersonality = () => {
     <BlockElement className="row mb-5 mt-5" component="div">
       <div className="col-sm-12 col-md-6 col-lg-6">
         <p className="mt-5">
-          <b>Https://SơnTùng.Xyz</b> - Nhân hiệu là sự lặp đi lặp lại một cách kiên định những thông điệp và giá trị 
-          mà mình đã đặt ra, là sự phấn đấu kiên cường để bảo vệ những điều tốt đẹp mà mình đang đại diện.  
-          không phải là một công việc, không có ngày nghỉ phép, không có thủ thuật mỳ ăn liền. Nó là quá trình 
-          rèn luyện để sống đúng, sống thật với chính bản thân mình. <br/>
-          THE STARTUP không chỉ là một công ty – chúng tôi là bệ phóng cho những ước mơ lớn, là ngôi nhà của 
-          những tâm hồn táo bạo và khát vọng mãnh liệt. Chúng tôi khao khát tạo nên một tương lai nơi sáng tạo 
-          không có giới hạn, và nơi mỗi người đều có thể trở thành người kiến tạo sự thay đổi mà họ mong muốn.
-
+          <b>Chứng chỉ Chuyên Viên Quản lý Nhà Nước</b> văn bằng xác nhận đã hoàn thành khóa 
+          đào tạo về kiến thức và kỹ năng quản lý hành chính, bao gồm các lĩnh vực như pháp luật,
+           chính sách công, tổ chức bộ máy nhà nước, công tác văn thư, quản lý nhân sự, và kỹ năng
+            xử lý công việc hành chính. Chứng chỉ này thường cần thiết để bổ nhiệm, nâng ngạch, 
+            hoặc đáp ứng tiêu chuẩn công việc trong các cơ quan nhà nước.
         </p>
       </div>
       <div className="col-sm-12 col-md-6 col-lg-6">
@@ -53,4 +50,4 @@ const MyPersonality = () => {
   )
 }
 
-export default MyPersonality
+export default qlnn

@@ -37,11 +37,12 @@ import StyledComponentIcon from "../assets/icons/skils/styled-component.svg"
 import GoogleAnalyticsIcon from "../assets/icons/skils/google-analytics.svg"
 import GoogleTagIcon from "../assets/icons/skils/google-tag.svg"
 import NetlifyIcon from "../assets/icons/skils/netlify.svg"
+import QLNNIcon from "../assets/icons/skils/cvqlnn.png"
 
 const Skills = () => {
   return (
     <Fragment>
-      <h4>Skill & Tools</h4>
+      <h4>Kỹ năng & Công cụ</h4>
       <BlockElement className="content-skillset row mt-5 mb-5" component="div">
         <div className="col col-md-12 col-lg-12">
           <div className="row">
@@ -50,11 +51,7 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
-                <img
-                  src={HtmlIcon}
-                  alt="icon"
-                  className="skill-img img-fluid"
-                />
+               <a href="http://www.thestatup.vn"><img src={HtmlIcon} alt="icon" className="skill-img img-fluid"/></a> 
               </BlockElement>
             </div>
             <div className="col col-md-3 col-lg-3 mt-5">
@@ -62,7 +59,7 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
-                <img src={CssIcon} alt="icon" className="skill-img img-fluid" />
+               <a href="/chungchiqlnn"><img src={QLNNIcon} alt="icon" className="skill-img img-fluid" /></a>
               </BlockElement>
             </div>
             <div className="col col-md-3 col-lg-3 mt-5">
@@ -70,7 +67,7 @@ const Skills = () => {
                 className="d-flex justify-content-center"
                 component="span"
               >
-                <img src={JsIcon} alt="icon" className="skill-img img-fluid" />
+               <a href="http://www.thestatup.vn"><img src={JsIcon} alt="icon" className="skill-img img-fluid" /></a> 
               </BlockElement>
             </div>
             <div className="col col-md-3 col-lg-3 mt-5">

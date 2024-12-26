@@ -10,30 +10,23 @@ import PropTypes from "prop-types"
 
 const About = ({ location }) => {
   return (
-    <Layout location={location} title={"About"}>
-      <Seo title="About" />
+    <Layout location={location} title={"Giới thiệu"}>
+      <Seo title="Giới thiệu" />
       <BlockElement component="div" className="d-flex section-about-me row">
         <BlockElement
           component="div"
           className="col-sm-12 col-md-8 col-lg-10 order-2 order-sm-1 order-md-1 order-lg-1 spacer-0-sm"
         >
           <p className="about-intro">
-            Great to see you here! I am Dimas Prasetyo, a Diploma Degree
-            graduate from Technology of Yogyakarta University.
-            <br />I am a <b>Frontend Developer Specialist</b>, I have
-            participated in several open source project and built several
-            projects,{" "}
-            <b>demonstrating my ability to write concise and clean code</b>,
-            Passionate about <b>web development Specialist</b>, creating about
-            mobile first friendly <b>Progressive web application</b>,
-            understanding good in <b>search engine optimation</b> practice,
-            specialist user interface design <b>(UI)</b> and <b>(UX)</b>{" "}
-            solutions, make the application run smoothly in other device{" "}
-            <b>(Mobile, Tablet/Phablet, Desktop)</b>.<br />
-            And also have some experience about{" "}
-            <b>leadership include role of team leadership</b>.
+             Rất vui được gặp bạn ở đây! mình là Sơn Tùng, thích sự đơn giản, đam mê đọc sách, học tập phát triển bản thân và kinh doanh.
+             Mình tin rằng mỗi người đều có thể phát triển và vươn tới mục tiêu của mình bằng cách học hỏi và thay đổi tích cực. 
+             Hy vọng có thể giao lưu trao đổi những kiến thức và quan điểm về cuộc sống với mọi người, cùng nhau học hỏi và phát triển! <br />
+            Hiện tại mình đang làm việc tại <a href="https://www.thestartup.vn">Công ty Cổ phần tập đoàn The Startup.</a>
+            Mình phụ trách về tuyển dụng phát triển đội ngũ nhân lực kinh doanh, xây dựng kế hoạch, thiết lập 
+            hệ thống và lãnh đạo quản lý đội nhóm kinh doanh. Rất vui nếu có thể kết nối với mọi người cùng nhau phát triển 
+            trong công việc và cuộc sống!
           </p>
-          <Link href="/personalities">See My Personalities</Link>
+          <Link href="/personalities">Tìm hiểu thêm</Link>
         </BlockElement>
         <BlockElement
           component="div"
@@ -52,7 +45,6 @@ const About = ({ location }) => {
     </Layout>
   )
 }
-
 About.propTypes = {
   location: PropTypes.object,
 }

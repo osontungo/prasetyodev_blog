@@ -3,11 +3,7 @@ import * as React from "react"
 const Footer = () => {
   return (
     <footer className="footer-area">
-      Develop by Sơn Tùng © {new Date().getFullYear()}, Built with
-      {` `}
-      <a className="d-block m-3" href="https://www.sontung.xyz">
-        Sơn Tùng XYZ
-      </a>
+      Xây dựng bởi <a className="d-block m-3" href="https://desocialworld.com/u/lesontung">Sơn Tùng</a> © {` `} {new Date().getFullYear()}
     </footer>
   )
 }
